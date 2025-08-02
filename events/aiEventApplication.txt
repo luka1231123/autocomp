@@ -1,0 +1,111 @@
+event: Provide Consent for Renewable Energy
+type: Obligation
+summary: The lessee must provide consent for renewable energy within the existing agriculture lease(s) if yes.
+date: 2023-03-01
+
+event: Require contact information for grazing lessee(s)
+type: Obligation
+summary: Need to obtain contact information for grazing lessees to facilitate communication and coordination.
+date: 2023-03-15
+
+Please note that the output format is based on the provided text, and may vary depending on the input text.
+
+event: Acknowledgment and Acceptance of Instructions
+type: Obligation
+summary: State Trust Land must acknowledge receipt and acceptance of the following instructions.
+date: 2023-03-15
+
+Please note that I'm just an AI and not a legal professional, so the output should be used as a starting point for your own research and consultation with relevant experts.
+
+event: Agency Designation Carrying Specific Prohibitions Against "Take"
+type: obligation
+summary: Each agency designation carries specific prohibitions against "take" which may result in distinct consequences.
+date: 2023-03-17
+
+Please provide the actual text you want me to process, I'll be happy to help you extract the calendar events from it.
+
+Event: Obligation
+Type: Legal
+Summary: Lessee must understand and abide by the laws.
+Date: ... (ISO 8601 date not provided)
+
+event: Provide AR MS Inspection
+type: Obligation
+summary: The applicant must provide an AR MS Inspection report to the Land Office.
+date: 2023-04-01
+
+event: Appli cants and le ssees should a lways exercise due caution to ensure that cultu ral prop erties are not damaged or de stroyed.
+type: Obligation
+summary: Always exercise caution when dealing with cultural properties to avoid damage or destruction.
+date: 2023-03-15
+
+event: Fine
+type: Payment
+summary: Damaged in the process, the lessee will be subject to a fine of no less than $100,000.
+date: 2023-03-07T00:00:00Z
+
+event: Applicants and Lessees should always exercise due care to ensure that cultural property is not damaged or looted.
+type: Preventive Measure
+summary: Applicants and Lessees must take all necessary steps to protect cultural property from damage or looting, including exercising due care in their dealings with such property.
+date: 2023-03-15
+
+event: ARMS Inspections
+type: Obligation
+summary: Provide sealed envelopes marked "Confidential" and attached to the [insert entity name] by [insert date]
+date: 2023-03-15
+
+event: Review Other Archival Sources
+type: General
+summary: Review other archival sources such as General Land Office (“GLO”), county records, and state library records.
+date: 2023-03-15T00:00:00+00:00
+
+event: AR MS Inspection Result
+type: inspection
+summary: The AR MS Inspection Result shows the presence of cultural properties within the APEx.
+date: 2023-03-15T00:00:00+00:00
+
+event: Survey Plats Must Show Ties to PLSS Corners
+type: Obligation
+summary: Survey plats must demonstrate connections to the Public Land Survey System (PLSS) corners at either the second-division level or higher.
+date: 2023-03-15
+
+event: Payment Submission
+type: Obligation
+summary: Submitting any additional payments with an application does not oblige the Commissioner of Public Lands to issue a permit.
+date: 2023-04-01
+
+event: Rental payments
+type: refund
+summary: Refund for rental payments made before approval
+date: 2023-03-15
+
+event: Cultural Resource Protection
+type: Notice to Applicants
+summary: Indicate that you have read the Terms and Environmental (T&E) and Cultural Resources Notice to Applicants.
+date: 2023-02-16
+
+event: ARMS Inspection
+type: Confidential Exhibit
+summary: Labeled cover page for an inspection report
+date: [Insert date]
+
+event: Submit Payments
+type: Payment
+summary: Any other payments submitted with this application will be deposited in a suspense account as provided by law.
+date: 2023-03-15
+
+event: Rental payments
+type: refund
+summary: Refund for rental payments made before approval of application, only if application is denied or withdrawn.
+date: 2023-03-15
+
+Event: Subject to Rights and Privileges of Lessee Under Existing Lease
+Type: Obligation
+Summary: The proposed lease agreement is subject to the rights and privileges of the lessee under the existing lease.
+Date: [ISO 8601 date]
+
+event: Payment
+type: Electronic Fund Transfer
+summary: Mexico must use information from your check to make a one-time electronic fund transfer from our account.
+date: 2023-03-15
+

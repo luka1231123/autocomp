@@ -1,0 +1,152 @@
+RCRA Renewable Energy Siting Checklist 
+Page | 1 Process Checklist 
+RCRA Renewable Energy Siting 
+The following checklist provides a ﬂexible guide for integrating renewable energy development 
+activities into the Resource Conservation and Recovery Act cleanup process. Conditions speciﬁc to 
+each facility may lead to implementing some key considerations during steps that differ from those 
+speciﬁed below. 
+4.Operat e &
+Maintain
+1.Facility
+Conditions
+2.Integrate
+Design
+3.Implement
+Cleanup
+Step 1: Screen Facility and Environmental Conditions 
+- Is my facility large enough for renewable energy?
+The REPowering Mapper is a useful resource to identify favorable conditions for renewable 
+development on speciﬁc facilities . The REPowering Tracking Matrix has examples o f renewable 
+energy developed on RCRA facilities . While most renewable energy developments require at least 5 
+acres to generate 1 MW of power, smaller RCRA facilities where a portion of operations may continue 
+during and after cleanup may accommodate smaller scale renewable energy projects. 
+- Are the local solar o r other e nergy r esources sufficient to support 
+renewable energy?
+All facilities under consideration should be screened for basic resource potential before they are 
+considered for renewable development. Some renewable uses, such as biomass or geothermal 
+energy projects, may require more in depth and speciﬁc assessments. The National Renewable 
+Energy Laboratory (NREL) maintains useful energy resource maps with national scale data to 
+evaluate solar and wind resources. 
+- Is cleanup needed at the facility ? Who is the lead cleanup agency?
+While some RCRA Corrective Action facilities will undergo cleanup and continue operations, other 
+facilities or portions of facilities might not continue current operations and can offer 
+opportunities for reuse. Certain parcels may not be contaminated or may be cleaned up on a 
+shorter timeline than the entire facility. Parcels can be cleaned up and reused even while other 
+portions of the property continue to operate as a regulated facility or continue to undergo corrective 
+actions. It is important to consider how ongoing operations may affec t siting future renewable energy 
+structures, including access and operations of the renewable energy development . 
+At the federal level, corrective action may take place under a RCRA permit or as an enforcement order under §3008 of RCRA. In authorized states, corrective action s may take place under a state 
+issued RCRA permit, a state cleanup order, a state voluntary cleanup program, or another state cleanup authority. Since authorized states may use a combination of state authorities to compel or oversee corrective actions, facility owners and developers must work closely with their state agency 
+at each step of the cleanup process to best determine integrating renewable energy development at RCRA C orrective Action facilities . The RE Powering M apper contains point ofinformation contacts 
+for many facilities . 
+RCRA Renewable Energy Siting Checklist 
+Page | 2 ☐Have you confirmed the willingness of facility owners and the community to 
+consider renewable energy development? Are there any local moratoriums on 
+new renewable energy projects?
+It is critical that the reuse of a facility matches both community priorities for redevelopment and 
+remains protective of human health and the environment in the long term. Discuss the potential 
+development with facility managers or project ofﬁcers, the community , and local government to 
+conﬁrm willingness to consider renewable energy at the facility and work to integrate renewable 
+energy into local redevelopment planning efforts . 
+- Identify p otential non contaminated areas based on sampling results and confirm 
+suitability of the facility for renewable energy.
+The RCRA Facility Investigation (RFI) step provides a detailed site investigation to understand 
+the nature, extent, and potential migration of the contaminant release, if any. Use site sampling 
+and risk assessment results and from the RFI to identify the best potential locations for 
+renewable energy development . Areas that have been sampled and are ready for reuse without 
+interim measures or cleanup actions may be considered for renewable energy development 
+immediately. 
+Consider the terrain conditions and climate concerns that may impact the long term 
+protectiveness of a remedy and the operations and maintenance of the renewable facility. Are 
+there project preparation concerns, such as shading or leveling the ground, that could be 
+considered during the corrective measures implementation phase that could improve 
+renewable energy feasibility? 
+The RFI step occurs before remedial decisions are made and is an ideal time for stakeholders to begin 
+planning for renewable energy development. If interim measures are used to control or abate ongoing 
+risks , discuss the potential for renewable energy at the facility . There is no uniform timeframe for the 
+investigation phase , and the process could take several years. Renewable energy developers should 
+understand how long the remedial investigation is expected to take at their sites when establishing a 
+site control strategy . This will help ensure that site control options or other contract mechanisms 
+extend sufﬁciently long and will help avoid undue ﬁnancial commitments by the developer before the 
+investigation phase is complete . 
+- Have you evaluated the project economics of a renewable project at the facility ?
+What are the approximate local wholesale and retail prices for electricity?
+A renewable energy project’s economic feasibility can depend on many factors, including permitting 
+requirements, transmission or distribution interconnection locations, technology and complexity, and 
+local electricity prices. The environmental conditions at the facility , cleanup necessary, and 
+associated timeline for cleanup are also important factors impacting the economic feasibility of a development. Incorporate the ﬁndings of the RFI, any interim measures, Corrective Measures Study 
+(CMS), and the Remed y Selection reports into the renewable energy development timeline and the 
+impacts to the renewable energy cost analysis. 
+- RCRA Renewable Energy Siting Checklist 
+Page | 3 Step 2: Integrate Renewable Design, Cleanup , and Reuse Planning 
+- Incorporate Renewable Energy into Cleanup and Reuse Planning
+Conduct a detailed analysis on ways to incorporate renewable energy design requirements into 
+the cleanup process in collaboration with appropriate state, Tribal, or local ofﬁcials as needed 
+(e.g., solar panel integrated landﬁll caps). Coordinate discussions about reuse of the facility 
+with community members and local government staff to ensure renewable energy is a desired outcome and ﬁts with the reuse plans for the facility . 
+- Have you considered any Institutional Controls or other limitations required by
+cle
+anup into renewable design?
+Take note of any engineering or institutional controls (ECs and ICs) required by CMS at the facility . 
+Consider these controls in the renewable energy design, including soil grading/disturbance , slope, 
+cap or cover design, stormwater management, soil stability, and anchoring. 
+Conﬁrm that the design, operations, and maintenance of the renewable energy facility will not 
+interfere with any remedial activities (e.g., groundwater monitoring sampling, extraction well 
+operation, remedy operations and maintenance ), ongoing operations at the facility , ICs, and /or ECs in 
+place. Ensure that ECs and/or ICs comply with renewable energy leases or other agreements. Finally, 
+work with regulators to consider renewable energy development along with permit changes, if 
+needed. 
+Renewable energy could be discussed during the evaluation of remedy options, especially if 
+renewables would be proposed as a part of the remedy. Once a remedy is selected, it becomes more difficult to incorporate into the cleanup. Additionally, there may be no cleanup required on 
+parts of the facility, based on the RFI results . This step provides an opportunity to incorporate 
+renewable energy reuse options in areas of the facility where cleanup is not taking place or as a 
+future use for the property when the cleanup is complete. 
+- Continue Stakeholder Engagement Activities
+As the cleanup and reuse planning and design activities of the r enewable energy project continues , 
+invest time in community meetings and other public outreach with local governments to keep 
+stakeholders informed and involved as appropriate. Many projects require land use review by local 
+departments such as planning review boards or other permitting bodies, and projects should 
+consider the necessary approval requirement s when estimating project periods and associated risks. 
+Consider opportunities to participate, as appropriate, in public meetings held during the Corrective 
+Action or local reuse planning process to respond to any community concerns as they arise on the 
+integration of renewable energy into the cleanup. 
+- Identify Renewable E nergy S pecific Budget and Process Approvals and Permits
+With the ﬁnal cleanup plan in hand, ﬁnalize the design for the renewable energy project. Gather 
+ﬁnal cost information on constructing a renewable energy facility separate from the cleanup 
+budget. Determine longterm ownership with state, local, and EPA partners and decide the 
+ownership structure for the renewable energy project. 
+- RCRA Renewable Energy Siting Checklist 
+Page | 4 Assist the renewable developer to determine what permits are necessary and what 
+environmental, engineering, or other studies are recommended. Permits , such as land use, 
+environmental, siting, building, or other permits, may be required. Review applications for 
+interconnection and net metering agreements to the appropriate local utility. 
+Step 3: Cleanup and Renewable Energy Project Implementation 
+- Are you actively coordinating construction activities across the cleanup and
+ren
+ewable energy teams?
+Hold regular meetings between the cleanup team (e.g., state regulators, EPA, other contractors) and 
+the renewable energy development team to examine ways to coordinate construction activities. 
+Consider including community or local government stakeholders to minimize the impacts of 
+construction activities on communities. 
+Renewable energy development can begin progressively in areas where cleanup activities are 
+complete or where cleanup is not required . During cleanup, renewable energy development should 
+not interfere with the implementation and protectiveness of the C orrective Measures 
+Implementation (CMI) process. 
+- Have you confirmed that ECs and ICs are in place?
+Inspect cleanup and renewable energy infrastructure to ensure the cleanup protectiveness is not compromised during any construction. Conﬁrm that the ECs and ICs for the facility are in place and 
+are being followed. 
+Step 4: Post Cleanup and Operations 
+- Ensure Remedy Protectiveness is Intact
+Inspect cleanup infrastructure to ensure the protectiveness of the cleanup is not compromised by 
+renewable energy development activities. 
+- Negotiate a Site Access and Cooperation Agreement
+Collaborate with the developers and the owner and/or permittee to negotiate a nd ﬁnalize 
+various access and cooperation provisions into the lease agreement . The agreement will outline 
+how access and land use for operations and ma intenance of the energy facility and ongoing 
+environmental monitoring activities will be managed by cooperating entities over the entire term of the 
+lease. The lease term is often at least as long as a ny associated energy agreement (e.g., power 
+purchase agreement). 
+- Have you checked that ECs and ICs are in place and being a dhered to?
+Ensure that ECs and ICs are being adhered to as the renewable energy project operates and 
+that the operations do not interfere with any other monitoring or operations and maintenance 
+(O&M) activities.

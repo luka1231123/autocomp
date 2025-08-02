@@ -1,0 +1,1744 @@
+- Green e® Renewable Energy 
+Standard for Canada and the 
+United States 
+- Version 4.4 
+- Center for Resource Solutions 
+1012 Torney Ave. 2nd Floor 
+San Francisco, CA 94129 
+www.resource solutions.org 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 2 CONTENTS 
+I. INTRODUCTION 3 
+II. ELIGIBLE SOURCES OF SUPPLY 3 
+A. Definition of Eligible Renewables 3 
+B. Co firing of Biomass with Non Renewables 7 
+C. Emissions Limits on Biomass 8 
+D. Emissions Criteria for the Non Renewable Portion of a Green e® Energy Product 8 
+E. New Renewables 8 
+F. Energy Storage 10 
+G. Parasitic Load . 10 
+H. Long Term Contracts for Supply and Sale 10 
+I. Extended Use Criteria for On Site and Direct Line Generation 11 
+III. PRODUCT SPECIFICATIONS 12 
+A. Minimum Purchase Quantity 12 
+B. Vintage of Eligible Renewables . 12 
+C. Fully Aggregated Renewables 12 
+D. Renewable Portfolio Standard (RPS) Renewables, Other Mandated Renewables, and 
+Financial Incentives 13 
+E. Double Counting and Use of Utility Resources 14 
+F. Customer Sited Facilities 15 
+G. Location of Eligible Generation Facilities 15 
+H. Tracking System Use 16 
+IV. ADDITIONAL CRITERIA FOR ELECTRICITY PRODUCTS 17 
+A. Geographic Eligibility for Electricity Products 17 
+B. Use of Renewable Energy Certificates in an Electricity Product 17 
+C. Products Contracting Supply from Portions of Specific Facilities to Individual 
+Customers 18 
+V. ADDITIONAL CRITERIA FOR REGULATED UTILITY PRODUCTS 18 
+A. Product Pricing 18 
+B. Marketing and Performance Targets 19 
+C. Waitlists for Green Pricing Products 19 
+D. Regulatory Approval 19 
+E. Tariffs with Long Term Contract Options 19 
+F. Utility Products Serving Multiple Utilities (Hub and Spoke) 20 
+VI. REVISIONS TO THIS STANDARD 21 
+APPENDIX A: STATE SPECIFIC REQUIREMENTS AND RESTRICTIONS 23 
+A.1 Texas 23 
+A.2 RGGI State Set Aside (CT, DE, ME, MD, MA, NH, NJ, NY, RI, VT) 25 
+A.3 Hawaii 31 
+A.4 Michigan 32 
+A.5 California Greenhouse Gas Cap andTrade 33 
+A.6 Arizona 38 
+A.7 Quebec Greenhouse Gas Cap andTrade 39 
+A.8 Washington Greenhouse Gas Cap andTrade 41 
+A.9 North Carolina 42 
+A.10 Oregon 42 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 3 I. INTRODUCTION 
+- This is the Green e® Renewable Energy Standard for Canada and the United States 
+(“Standard ”) for renewable electricity products in all regions of the United States 
+(defined as the fifty States, the District of Columbia, the Commonwealth of Puerto 
+Rico, Guam, American Samoa, the United States Virgin Islands, the Northern Mariana 
+Islands, and associated territorial waters and airspace ) and Canada . This Standard 
+defines minimum require ments for renewable electricity and renewable energy 
+certificates (RECs) sold in Green e® Energy certified sales, in order to promote high 
+quality renewable electricity development . and generation, and the environmental 
+benefits of such generation in place of traditional fuels used for electricity. 
+- The following criteria apply to all Green e® Energy certified products (Renewable 
+Energy Certificates, utility green pricing programs, and competitive market 
+electricity products). Additional details about the Green e® Energy certification 
+criteria, the application process, verification summary , marketing compliance review, 
+etc. can be found in the Green e® Energy Code of Conduct , available on our website , 
+www.green e.org/energy , along with a glossary that includes many of the terms that 
+appear in the Standard . 
+- II. ELIGIBLE SOURCES OF SUPPLY 
+- A. Definition of Eligible Renewables 
+- The following types of renewable energy are eligible to supply Green e® Energy 
+certified products. Renewable electricity generation facilities supplying renewable 
+energy used in Green e® Energy certified products must meet all applicable 
+eligibility rules in the Standard at the time of generation of each MWh, unless the 
+facilities have received an exemption or grandfathering under a previous version of 
+this Standard . 
+- All biomethane production from a facility on a common carrier pipeline that is used 
+to supply Green e® Energy certified products or used to supply generators that 
+supply Green e® Energy certified products must be Green e® Renewable Fuels 
+certif ied excep t waste from a concentrated animal feeding operation (“CAFO”) . 
+Related pro ducts will currently remain eligible only under this Standard. The 
+treatment of CAFOs in the Green e® Renewable Fuels Standard is under review . See 
+section s I.A.3 and III.C.6 of the Renewable Fuels Standard for more details. 
+- 1. Solar Electric 
+2. Wind 
+3. Geothermal 
+4. Hydropower from new generation capacity on a non impoundment or new 
+generation capacity on an existing impoundment that meets one or more of the 
+following conditions: 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 4 a. the hydropower facility is certified by the Low Impact Hydropower Institute 
+(LIHI) ; 
+b. for Canadian hydropower facilities only, the facility is EcoLogo certified; or 
+c. the hydropower facility consists of a turbine in a pipeline or a turbine in an 
+irrigation canal. 
+- For facilities falling under a) or b) above, only output generated during the period of 
+LIHI certification or EcoLogo certification is eligible for Green e® Energy certified sale. 
+- Renewables from new impoundments of water are not eligible. 
+- Electrical energy increases due to improvements made on or after the applicable 
+New Date (see Section II.E) may be eligible if: 
+- they are not due to routine maintenance (i.e. output would be increased 
+compared to original design); and 
+- they do not increase water storage capacity or the head of an existing water 
+reservoir ; and 
+- independent third party reporting demonstrates that increased annual 
+generation of electrical energy will result from these improvements. 
+- Also note that only the increased annual generation of electrical energy due to 
+improvements is eligible for use in Green e® Energy certified products. Eligible 
+improvements may include, but are not limited to, the following measures: 
+- Rewinding or replacing the existing generator 
+- Replacing turbines or significantly modifying turbine runners 
+- Addition of a minimum flow unit at an existing facility 
+- Computerizing control 
+- In order for increases in annual generation volume to be eligible for Green e® Energy 
+certification, the owner of the facility that has undergone eligible improvements 
+must complete and submit a copy of the Green e® Energy Increased Electrical 
+Output Worksheet (please contact Green e® Energy staff to receive a copy of this 
+worksheet) for Green e® Energy staff review and approval. 
+- 5. Solid, liquid, and gaseous forms of Biomass from the following fuels :1,2,3,4, 
+a. Woody waste, including but not limited to residues such as tops and limbs 
+- 1 Includes “black liquor” from pulp and paper processing, mill residues, industrial waste wood, and waste wood from 
+woodworking or wood processing, so long as the wood is not chemically treated or coated. 
+2 At a future time when the EPA, or other similarly reputable authority, releases findings on biogenic carbon dioxide 
+emissions, and the carbon intensity of certain types of biomass may be determined with reasonable accuracy, then 
+Green e Energy may reevalu ate the eligibility of biomass resources used to generate renewable electricity. 
+Emerging technologies generating electricity from byproducts and waste streams may be eligible for Green e 
+Energy, however such technologies should be able to demonstrate that procurement and use of their fuel has a 
+favorable carbon balance. 
+3 Including liquid biofuels made entirely of eligible resource noted in Section 2.A.5. Food crops or animal feed are 
+explicitly excluded 
+4 Biogas from a shared pipeline is eligible only if it can be demonstrated that all environmental attributes are 
+appropriately transferred along the chain of custody. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 5 and urban wood waste, is eligible if the following requirements are met :5 
+i. The fuel does not contain paints, plastics, Formica, halogens, chlorine, or 
+halide compounds like chromated copper arsenate treated materials, 
+arsenic, or contaminating treatments. Qualified wood fuels may contain de 
+minimis quantities6 of wood containing the above excluded contaminates. 
+Railroad ties and utility poles are excluded from eligibility; 
+ii. Forestry derived fuels originate from forests that were managed in 
+accordance with State or Provincial best management practices and 
+regulations; 
+iii. Forestry derived fuels were removed in accordance with State or Provincial 
+best management practices and regulations; and 
+iv. The fuel is not derived from whole trees unless at least one of the following 
+is met: 
+- The whole trees are urban wood waste , including used Christmas 
+trees; 
+- The whole trees are cut as maintenance of existing roads. Such 
+roads are not on protected lands or wilderness . Woody fuel from 
+road building activity is not eligible; 
+- The whole trees are on private or state land already downed 
+naturally or killed naturally by wind, storms, fire, pests, or pathogens; 
+or 
+- An independent third party, qualified in sustainable forestry 
+management and chain of custody issues, certifies that that the 
+whole trees are part of a thinning that meets a. or b. below:7 
+a. If on a plantation ,8 the plantation was not established on land 
+converted from any other forest after 20129, and the thinning 
+improves the ecology, biodiversity, and ecosystem function of the 
+forest and surrounding area. 
+b. If not on a plantation, the thinning is part of a plan to improve the 
+ecology in terms of natural forest structure, protection of 
+biodiversity, and ecosystem function of the forest and surrounding 
+area. 
+b. Agricultural crop residue that is unmerchantable as food (or as animal feed) . 
+For example, crops intended for human or animal consumption but damaged 
+by drought or storms would qualify, as would crops with a non energy 
+- 5 CRS reserves the right to require additional documentation to verify eligibility of any resource. In some instances, 
+third party certification may be used to demonstrate eligibility. 
+6 De minimis quantities is defined as: less than 1% of the total annual BTU value is derived from treated wood 
+7 Thinnings or harvests of whole trees from Federal lands are not eligible at this time because of the difficulty of 
+ensuring that the thinning was done as part of a plan for sustainability. However, the Green e Governance Board 
+may reevaluate this at a lat er time if an appropriately rigorous and enforceable third party chain of custody 
+certification is developed to address Federal lands. 
+8 Plantation is defined as: A stand maintained by planting or artificial seeding, grown for the purpose of harvest. 
+9 If land was a plantation prior to 2012 but is no longer being managed as a plantation (e.g. the majority of existing 
+trees have been regenerated naturally), it does not qualify under this provision and must be evaluated under 4.b. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 6 primary purpose, such as waste from animal feed production . For the 
+purposes of this Standard, a tree is not an agricultural crop. 
+c. Other solid, liquid, or gaseous organic waste including biogas created from 
+food waste (e.g. municipal compost ing facilities) and food and beverage 
+processing waste . 10,11 
+d. Energy crops , excluding food crops or animal feed, that have a rotation less 
+than 10 years (e.g. poplar, willow, or eucalyptus), and meet at least one of the 
+below criteria to avoid land conversion from forest land or displace food 
+production: 
+i. Grown on agricultural land not in use for food production in the last two 
+years; or 
+ii. Grown on agricultural land in a way that does not displace food 
+production. 
+- e. Landfill gas and wastewater methane .12 
+f. Green e® Energy will consider allowing waste toenergy (WTE) technologies 
+using biogenic resources and will review these technologies as they mature 
+and as practical application reaches near term in North America. Municipal 
+solid waste is specifically excluded from eligibility and from WTE technologies 
+that will be considered. 
+- 6. Biodiesel (B100) that is used to generate electricity is eligible for Green e® 
+Energy. Biodiesel blended with petroleum diesel is permitted if all of the 
+following conditions are met: 
+- a. The biodiesel is separately measured (and verified) from the petroleum diesel ; 
+b. Contracts are in place to allow CRS to verify that the biodiesel was converted 
+to electricity; 
+c. Only the amount of electricity generated from the biodiesel may be counted 
+as part of a Green e® Energy certified product; and 
+d. Feedstock used to make biodiesel must either be a waste, that is no longer 
+suitable or merchantable for its primary purpose, such as waste vegetable oil, 
+or some other feedstock whose energy and carbon balance is demonstrably 
+favorable. 
+- 10 Organic waste can include waste and residues of biological origin from agriculture (including vegetal and animal 
+substances), and forestry and related industries where not otherwise expressly prohibited in this Standard. 
+11 In the case that a biogenic methane capture and destruction project (such as a dairy burning biogas produced by 
+an animal waste digester) is receiving carbon offsets for the destruction of methane, renewable electricity and RECs 
+generated using the heat o f combustion of such methane are eligible under this Standard so long as the calculation 
+of carbon offsets does not include the environmental benefits arising from generation of renewable electricity or of 
+backing down generation elsewhere on the grid. Gre ene Energy staff reserve the right to request offset calculation 
+methodologies of such projects. 
+12 Biomethane that is used to generate electricity is eligible for Green e Energy provided that the facility generating 
+the electricity complies with all applicable laws, regulations, and ordinances and meets all of the air pollution, 
+groundwater, and efflue nt requirements of the state in which the project is sited. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 7 7. Fuel cells are eligible only if powered by hydrogen derived from any of the 
+above eligible renewable resources (See section II.E.7) . 
+8. Ocean based energy resources captured through tidal and wave 
+technologies, if located in a state with permitting processes specific to the 
+resource type at the time of construction and if the generator is fully 
+licensed at the state and federal level (as a pplicable), or if the generator is 
+reviewed and approved by the Green e® Governance Board prior to the 
+generator ’s output being used in a Green e® Energy certified product.13 
+- B. Co firing of Biomass with Non Renewables 
+- Cofiring of eligible forms of biomass with non renewables is permitted if at least 
+one of the following conditions is met: 
+- 1. The facility is located in an electric system control area that makes use of a 
+generation tracking system (e.g. PJM GATS, WREGIS) that is fully capable of 
+accurately measuring and reporting the differentiated (biomass fired and non 
+biomass fired) electrical output from the facility; or 
+2. The biomass is in a gaseous or liquid state, is separately metered , and there are 
+contracts in place to verify that the biomass portion was converted to electricity; 
+or 
+3. Facilities that do not meet either of the criteria above may be eligible subject to a 
+case bycase review by the Green e® Governance Board . The methodology 
+presented to Green e® Energy must demonstrate that the heat input (BTU value) 
+used to generate electrical output from the facility is attributed to the eligible 
+biomass fuel. Some of the criteria that the Board will consider in making a 
+decision are: 
+a. Whether the facility was modified to accept biomass fuel; 
+b. Whether there is an independent entity involved in verifying or determining 
+the appropriate measurement; and 
+c. Whether there is a way to determine and ensure the net electricity increment 
+being sold as “renewable ” can be attributed to eligible biomass fuel. 
+Only the amount of electricity generated from the eligible biomass may count 
+towards the Green e® Energy criteria. Facilities generating electricity using 5% or less 
+of non eligible fuels as a percent of total heat input (on a BTU basis, for example) do 
+not need to meet one of the three conditions above, however those MWh generated 
+from non eligible fuels are not eligi ble for sale in Green e® Energy certified products 
+and must not be included in eligible MWh generated at such a facility. The 
+assessment of whether the 5% threshold is exceeded must be made on a periodic 
+basis, at least quarterly. Periods for which the 5% threshold is exceeded must either 
+- 13 Green e Energy Participants or generators of electricity using tidal and wave based resources should contact 
+Green e Energy staff with questions or materials related to eligibility. The Green e Energy program reserves the right 
+to reject facilities with serious environmental impacts. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 8 meet one of the three above conditions or be excluded from Green e® Energy 
+certified sales. 
+- C. Emissions Limits on Biomass 
+- This Standard strives to promote biomass resources that, on a total fuel cycle basis, 
+do not increase atmospheric greenhouse gas concentrations in time frames that are 
+meaningful in addressing global climate change. 
+- All facilities must be in compliance with all state and/or federal laws/rules regarding 
+emissions. For facilities subject to New Source Review (NSR), the facility must be 
+compliant with all applicable regional and state standards pertaining to NSR. 
+- D. Emissions Criteria for the Non Renewable Portion of a Green e® Energy 
+Product 
+- Some renewable electricity products do not meet 100% of a customer ’s electricity 
+load and/or will contain non renewable energy. The emission rates per kWh for SO 2, 
+NO x, and CO 2 from the non renewable portion of the eligible product may not 
+exceed customer ’s average utility, state or regional power emissions rates. Rates are 
+calculated from the latest available EPA EGRID data, unless the regional system 
+administrator, PUC or other authority makes more up todate information available. 
+The product may not inc lude any specific purchases of nuclear power in the non 
+renewable portion of the product other than what is contained in any system power 
+purchase (i.e. the product may not include differentiated nuclear power). A utility ’s or 
+power pool ’s system mix may be used to satisfy the non renewable portion of a 
+Green e® Energy certified product. 
+- E. New Renewables 
+- Only new renewables are eligible to meet Green e® Energy standards. The term 
+“New Date ” is defined to include any eligible renewable facility beginning operation 
+or repowered after the dates indicated on the following table: 
+- Year of Sale New Date 
+2021 2007 
+2022 2008 
+2023 2009 
+2024 2010 
+2025 2011 
+2026 2012 
+- The New Date will continue to advance by one year each year after 2026. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 9 In order for the output of a renewable generation facility to be eligible for use in a 
+Green e® Energy certified sale, the facility must meet at least one of the following 
+conditions: 
+- 1. Placed in operation (generating electricity , including test energy put onto the 
+electricity grid ) on or after the applicable New Date; 
+2. Repowered on or after the applicable New Date such that at 80% of the fair 
+market value of the project derives from new generation equipment installed as 
+part of the repowering14. In order to be recognized as repowered for the purposes 
+of Green e® Energy, the owner of the facility seeking “repowered ” status must 
+complete and submit a copy of the Green e® Energy Repowering Worksheet 
+(please contact Green e® Energy staff to receive a copy of this worksheet) for 
+Green e® Energy staff review and approval ; 
+3. A separable improvement to or enhancement of an existing operating facility 
+that was first placed in operation prior to the applicable New Date, such that the 
+proposed incremental generation is contractually available for sale and metered 
+separate from the existing generation at the facility; 
+4. A biomass co firing facility that meets all requirements for biomass co firing 
+outlined in section II.B. above and began co firing non eligible fuels with eligible 
+biomass as defined in II.A. above on or after the applicable New Date; 
+5. A 100 percent switch from a non eligible fuel to an eligible fuel on or after the 
+applicable New Date; 
+6. A separately metered landfill gas resource that was not being used to generate 
+electricity prior to the applicable New Date; 
+7. A fuel cell that began generating electricity on or after the applicable New Date. 
+The hydrogen powering the fuel cell must be derived from a facility that meets 
+the resource eligibility requirements described in section II.A. above. 
+8. The facility is supplying renewable electricity or RECs to a Green e® Energy 
+Participant under an eligible contract that meets all requirements of “Long Term 
+Contracts for Supply ” as described in II.H, below ; only the specific output 
+approved by Green e® Energy under such a contract may be used beyond the 
+New Date facility age limit above. 
+- Any enhancement of fuel source that increases generation at a facility built prior to 
+New Date , without the construction of a new or repowered, separately metered 
+generating unit, is not eligible to participate, with the exception of new landfill gas 
+resources identified in (6) above. An eligible “new renewable ” must qualify as an 
+“eligible renewable resource ” as described herein. 
+- 14 Hydroelectric facilities are not eligible to apply for repowering using this document. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 10 F. Energy Storage 
+- Energy storage systems or plants, including pumped hydroelectric storage, battery 
+storage, compressed air energy storage, superconducting magnetic energy storage, 
+flywheels, and super capacitors, are not energy resources. While each of these 
+storage technologies play an important role in managing the delivery of non 
+dispatchable renewable energy, they are not in themselves a renewable energy 
+resource. Therefore, these storage technologies themselves are not qualifying 
+sources of renewable generation. 
+- G. Parasitic Load 
+- Renewable energy consumed as parasitic load of an eligible facility is not eligible for 
+use in a Green e® Energy certified product. Parasitic load is a load that contributes to 
+the process of electricity generation. 
+- H. Long Term Contracts for Supply and Sale 
+- Green e® Energy certifies certain sales of renewable electricity and RECs from 
+renewable electricity generation units for more than the 15 year “New Date ” window 
+described in Section II.E, above, and up to 30 years. In this section, “longterm ” 
+contracts are those extending beyond this “New Date ” window. All criteria below 
+must be met.15 Each approved long term contract, and corresponding non 
+residential end use purchaser (s), is a unique Green e® Energy certified product 
+requiring a contract with CRS, fee assessment and annual verification. 
+- Certain utility products may qualify for certain exceptions for extended contract life if 
+they meet the criteria in Section V.E of this Standard. 
+- 1. The REC or renewable electricity is purchased by the Green e® Energy Program 
+Participant directly from the owner o r authorized representative of a generat ion 
+unit, or is generated by a generation unit owned by the Participant. 
+- Contracts between Participant and generation unit(s) will no longer be eligible if 
+they are sold or transferred, except in the case that: the generation unit 
+ownership changes or the non residential end use purchaser is acquired by 
+another company; both the generation unit(s) and the non residential end use 
+purchaser (s) remain the same; and all required terms and conditions are 
+maintained; 
+- 2. Only the specific number of RECs or percentage of generation output under the 
+approved long term contract with the Participant is eligible for long term use, 
+through the life of the contract or 30 years, whichever is shorter, so long as the 
+Participant maintains certification of the product through this period. 
+- 15 Other exceptions for long term supply exist for single mix products under Section IV.C. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 11 
+Only the output provided to the Participant under an approved long term 
+contract will remain eligible under the Standard in effect at the time of contract 
+execution for the approved life of the contract, except in the event of policy or 
+market changes in renewable energy markets that are not consistent with the 
+intent of the Standard as interpreted by the Green e® Governance Board, 
+including changes that would violate Green e® Energy ’s policies on double 
+counting; 
+- 3. No later than 12 months from the date of Green e® Energy eligibility per Section 
+II.E.1 7, the Participant must: 
+- a. Execute a contract for supply with the owner or authorized representative of 
+the generation unit(s); and 
+b. Execute contracts with all non residential end use purchasers on the Long 
+term Purchasers List. New purchasers may not be added once the Long term 
+Purchasers List is approved by Green e® Energy staff. If a purchaser is 
+removed from the Long term Purchasers List for any reason, then the output 
+they would have received is no longer eligible under this Long Term Contracts 
+for Supply and Sale section .16 
+- 4. Identify and report to Green e® Energy a list of non residential end use 
+purchasers of the contracted supply in a Green e® Energy certified transaction 
+(“Long term Purchasers List”), who will be the only entities eligible to purchase 
+the output of the generation unit from the Green e® Energy Participant in 
+accordance with the deadline posted on the Green e® Website . 
+- I. Extended Use Criteria for On Site and Direct Line Generation 
+- Under the following scenarios, the facility may remain eligible beyond the new date 
+window: 
+- a. The facility and user are on one site together; or 
+b. The facility and user are connected with a direct line connection, 
+and in both cases, the facility’s RECs are retired by or on behalf of the user. 
+- Only facilities brought online or repowered on or after January 1, 2003 are eligible for 
+this type of extended use. The maximum length of time any facility may be eligible 
+for this type of extended use is 30 years. 
+- 16 Regulated Utility products are exempted from H.3.b. as well as H.4 . See section V.E. for utility specific criteria. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 12 III. PRODUCT SPECIFICATIONS 
+- A. Minimum Purchase Quantity 
+- Green e® Energy certified products sold to residential customers must contain at 
+least the minimum amounts of Green e® Energy eligible renewable energy 
+described below. 
+- 1. Percentage ofUse Products : Retail electricity offerings must match at least 25% 
+of a residential customer ’s electricity usage with new renewables above and 
+beyond any state mandated Renewable Portfolio Standard (RPS) renewable 
+amount. If a marketer or utility offers the option to match less than 50% of a 
+residential customer ’s electricity use, they must also offer a 100% option to 
+residential customers. 
+2. Block Products : Electricity and REC products sold as block products must be 
+100% Green e® Energy eligible renewables in a minimum size of 100 
+kWh/month.17 
+3. Capacity Based Products : Electricity or REC products sold as kW of capacity or 
+shares of a facility must deliver a minimum of 100 kWh a month averaged over a 
+calendar year, or they may instead deliver a minimum of 10% of the customer’s 
+monthly electricity use averaged over a calendar year. 
+- Green e® Energy certified products sold to non residential customers have no 
+minimum purchase quantity requirement. However, commercial purchasers 
+interested in using the Green e® logo to promote their purchase must meet the 
+requirements of the Green e® Marketplace Program: http://www.green 
+e.org/marketplace . 
+- B. Vintage of Eligible Renewables 
+- A Green e® Energy certified product may include only renewables that are 
+generated in the calendar year in which the product is sold, the first three months of 
+the following calendar year, or the last six months of the prior calendar year. 
+- C. Fully Aggregated Renewables 
+- Green e® Energy only certifies renewable energy products that are fully aggregated 
+to the extent possible under law. 
+- Green e® Energy certified MWh (electricity or REC) must contain all the greenhouse 
+gas (GHG) emission s reduction benefits, including carbon dioxide (CO 2) reduction 
+benefits, associated with the MWh of renewable electricity when it was generated. 
+- 17 When RECs are sold on a one time basis to a residential customer, the minimum purchase quantity shall be 100 
+kWh. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 13 Emissions of other capped pollutants where allowances are not routinely assigned to 
+renewable electricity generators18 are not required to be included in Green e® Energy 
+certified renewable electricity or RECs.19 
+- D. Renewable Portfolio Standard (RPS) Renewables, Other Mandated 
+Renewables, and Financial Incentives 
+- Green e® Energy certified products must be comprised of eligible renewable 
+generation over and above anything required by state or federal RPS requirements, 
+legislation, or settlement agreements (regulatory surplus) . Green e® Energy does not 
+certify renewable electricity or REC sales that result in double counting, including 
+double counting between compliance and voluntary markets. If a utility or electricity 
+marketer is subject to an RPS or other mandate or agreement, they must comply 
+with it regardless of the existence of a volun tary market for renewable energy. If a 
+Participant in Green e® Energy is determined to be out of compliance with these 
+obligations, or is selling renewables from a mandated facility, that may be grounds 
+for decertification from Green e® Energy. 
+- Renewable energy or RECs may not be used in a Green e® Energy certified product 
+under the following circumstances: 
+- 1. The REC or the electricity from which the RECs are derived is being used 
+simultaneously to meet a local, state, or federal energy mandate or other legal 
+requirement; or 
+2. The RECs or renewable electricity are derived from a renewable facility that has 
+been mandated by a local, state, or federal government agency or was required 
+under any legal requirement ; or 
+3. Capacity (MW) and/or generation facilities associated with the renewable 
+electricity or RECs are used for compliance, even when RECs are not required to 
+determine compliance with an RPS or similar policy. 
+- There may be other types of implementation processes and compliance 
+assessments for RPS and similar policies that would render RECs or renewable 
+electricity ineligible for use in Green e® Energy certified sales. 
+- When a facility generat es renewable energy in excess of the government mandate 
+or other legal contract this may be an exception to (1) (3) above , in which case that 
+excess (either renewable electricity or the RECs associated with the renewable 
+electricity) may be used in a Green e® Energy certified product. 
+- Only for a certified renewable electricity product that meets 100% of a customer ’s 
+load or a Green e® Direct certified purchase of renewable electricity , Green e® Energy 
+- 18 For example, under the national sulfur dioxide cap, allowances are assigned to entities with compliance 
+obligations, i.e. polluting entities. 
+19 As of 7/15/2010, such capped pollutants include sulfur dioxide nationally and the oxides of nitrogen regionally. For 
+more details on marketing claims under the Green e Energy program please see the Green e Energy Code of 
+Conduct. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 14 allows a percentage of the product content to be satisfied with renewables reported 
+toward a renewable portfolio standard (RPS) or other similar state policy, up to the 
+amount that is attributable to the customer of the voluntary product.20 All such 
+resources must also go through the Green e® Energy verification process, and meet 
+all other applicable Green e® Energy eligibility and disclosure requirements. 
+Distribution of renewables reported toward a n RPS or similar policy must be 
+consistent across the load on which the policy ’s obligation calculations are based, 
+and allocating all such renewables to one customer type or group of customers is 
+not allowed. However, variability of geographic location of generation (not 
+renewable resource type) is allowed to the extent required by a Partic ipant's or 
+Participant’s supplier’s RPS obligations under the laws of said state (s). 
+- RECs or renewable energy from renewable generating facilities that obtain tax or 
+financial incentive payments are eligible under Green e® Energy (to the extent 
+allowed by law, regulation, and contract language governing the tax or financial 
+incentives program) , so long as these incentives do not also require that the RECs or 
+renewable electricity be used or counted towards an RPS or other policy, as 
+described above . 
+- New regulatory programs may be created; the nature of the regulatory program will 
+impact resulting Green e® policy. Regulatory programs that render renewable 
+energy ineligible to be included in a Green e® Energy certified product will be added 
+to Appendix A: State specific requirements and Restrictions. Some regulatory 
+programs do not restrict renewable energy eligibility but do require that additional 
+disclosures be provided to customers. Please refer to the Green e® Energy Code of 
+Conduct for specific dis closure guidance. 
+- E. Double Counting and Use of Utility Resources 
+- Eligible RECs or renewable energy can be used once and only once; making a claim 
+(e.g. stating “we buy wind power ”) is one example of a “use” that results in 
+retirement. Renewable energy or RECs (or the renewable or environmental 
+attributes incorporated in that REC) that can be legitimately claimed by another 
+party may not be used in Green e® Energy certified REC products.21 Examples of 
+prohibited double uses include, but are not limited to: 
+- 20 As a general principal, Green e Energy Program Participants offering a certified electricity product that 
+meets 100% of a voluntary customer’s load with renewable electricity are not required to provide the customer with 
+Green e Energy eligible renewables for more than 100% of the customer’s electricity load. 
+21 If the owner of a renewable generation facility is reporting direct greenhouse gas emissions in a legally binding 
+(through voluntary agreement, law or regulation) cap andtrade program and the renewable energy facility is 
+included within the organizational boundary in the reporting structure, the following applies: Renewable energy 
+facilities that are owned by entities participating in a legally binding greenhouse gas cap and trade program are 
+ineligible under Green e Energy. Green e Energy may grant exceptions on a case bycase basis if the cap andtrade 
+program has an accounting mechanism that assures that the GHG emissions benefits of renewable electricity 
+and/or RECs are not double counted or double claimed, such as exists in nine out of 10 states participating in the 
+Regional Greenho use Gas Initiative (RGGI). Future cap and trade systems will be considered as they are developed. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 15 1. When the same REC is sold by one party to more than one party, or any case 
+where another party has a conflicting contract for the RECs or the renewable 
+electricity; 
+2. When the same REC is claimed by more than one party, including any expressed 
+or implied environmental claims made pursuant to electricity coming from a 
+renewable energy resource, environmental labeling or disclosure requirements. 
+This includes representing the energy from which RECs are derived as renewable 
+in calculating another entity ’s product or portfolio resource mix for the purposes 
+of marketing or disclosure; 
+3. When the same REC is used by an electricity provider or utility to meet an 
+environmental mandate, such as an RPS, and is also used to satisfy customer 
+sales under Green e® Energy; or 
+4. Use of one or more attributes of the renewable energy or REC by another party 
+(See Section III.C. “Fully Aggregated Renewables ” for details). This includes when 
+a REC is simultaneously sold to represent “renewable electricity ” to one party, and 
+one or more Attributes associated with the same MWh of generation (such as 
+CO 2 reduction) are also sold, to another party. 
+- When a utility is involved in a REC transaction, either as a generator, a purchaser of 
+RECs, or a purchaser of the commodity electricity from which the RECs have been 
+derived, the local utility commissions in the states where the electricity was 
+generated and where the electricity is sold must be notified of the transactions and, 
+in some cases, of the money received by the utility. 
+- F. Customer Sited Facilities 
+- Ongrid customer sited (behind the meter) facilities that meet the eligible 
+renewables definition are eligible sources for Green e® Energy. Customer sited off 
+grid renewables are eligible only for certified use by the customer owner and only if 
+all attributes/RECs are retained and claimed by that customer . Any generation unit 
+less than or equal to 10 kW may use a conservative engineering estimate of output. 
+CRS must pre approve the estimation methodology. Systems over 10 kW must be 
+metered. 
+- Customer sited generators (such as net metered solar) cannot claim to be 
+selling/supplying renewable electricity if they sell the RECs (in part or in whole) 
+separately. 
+- G. Location of Eligible Generation Facilities 
+- Renewable electricity generation facilities supplying renewable MWh to Green e® 
+Energy certified renewable energy products may only be located in: the 50 US states; 
+the District of Columbia, the Commonwealth of Puerto Rico, Guam, American 
+Samoa, the United States Virgin Islands, the Northern Mariana Islands, and 
+associated territorial waters and airspace; Canada; or portions of North American 
+Electricity Reliability Corporation regions located in Mexico. Eligibility of other 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 16 locations outside of these areas will be considered and decided upon by the Green 
+e® Governance Board on a case bycase basis. Additional geographic restrictions 
+apply to utility green pricing and competitive electricity products; see section IV.A 
+and IV.B. 
+- H. Tracking System Use 
+- In all but a few specific cases listed in this section, Green e® Energy certified 
+products must be supplied and substantiated by renewable MWh tracked in a 
+renewable energy tracking system that is approved by Green e® Energy. Green e® 
+Energy provides a list of approved tracking systems and the criteria under which 
+they are evaluated at www.green e.org . 
+- Only in the following cases is the use of tracking systems not required for Green e® 
+Energy certified products and participants: 
+- 1. The entire facility has an aggregated nameplate capacity less than or equal to 2 
+MW, or 
+2. The facility is located on property owned by the retail electricity user claiming the 
+RECs/renewable energy or has a “direct line connection,” that user is claiming all 
+RECs generated by the facility during the period of certification, and that all 
+generation is validated by attestations and 3rd party verification records, or 
+3. The Participant’s total certified sales volume is less than or equal to 10,000 MWh 
+for that reporting year. In this case, another tracking system accountholder must 
+retire supply on behalf of the Participant’s certified sales (in addition to all other 
+required verification procedures), or 
+4. The facility (or Participants) using output from the facility in Green e® Energy 
+certified transactions provides to Green e® Energy an independent 3rd party 
+verification of the facility, including, but not limited to, its total output and sales 
+agreements, to verify no double selling has occurred, in accordance with Green 
+e® Energy verification procedures. 
+In addition, in certain circumstances, Green e® Energy may allow RECs to be retired 
+for a certified retail product in the tracking system account of a different Green e® 
+Energy participant, rather than the account of the participant offering the retail 
+product. Participants must receive approval in advance from a Green e® Energy 
+representative as described in the Green e® Energy verification instructions. 
+- For all eligible supply, each Green e® Energy participant, if not exempted by an 
+exception above, must use an account in an approved tracking system to 
+substantiate the participant’s certified sales in a given calendar year following 
+procedures in the Green e® verification protocols. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 17 IV. ADDITIONAL CRITERIA FOR ELECTRICITY PRODUCTS 
+- A. Geographic Eligibility for Electricity Products 
+- For electricity products (i.e. products used to meet a customer’s electricity needs), 
+provider can source from one of the following geographic boundaries: 
+- 1. The single state where all of the product’s customers are located; and/or an 
+adjacent state where the electricity, bundled with a REC, is wheeled into the 
+respective state of the customer being served ; or 
+2. One or more of the following: The North American Electric Reliability Corporation 
+(NERC) region, Independent System Operator (ISO), Regional Transmission 
+Organization (RTO) or Balancing Authority Area of the customer being served; 
+customer’s regulated electric service territory; and/or an adjacent NERC, ISO, RTO 
+or Balancing Authority Area where the electricity, bundled with a REC, is wheeled 
+into the respective region of the customer being served. 
+- B. Use of Renewable Energy Certificates in an Electricity Product 
+- Renewable Energy Certificates (RECs) can be combined with nonrenewable power 
+to serve green electricity customers under the following conditions: 
+- 1. The Renewable Energy Certificates must come from the defined geographic 
+boundary of the customer being served as noted above if they are to be 
+marketed as an “electricity ” product; 
+2. The emission rates per kWh for SO 2, NO x, and CO 2 for the underlying electricity 
+must be at or below the customer ’s average utility, state or regional power 
+emissions rates ;22 and 
+3. The underlying electricity cannot include any specific purchases of nuclear power 
+in the non renewable portion of the product other than what is contained in any 
+system power purchase (e.g. the product may not include differentiated nuclear 
+power). 
+- If the RECs are sourced from outside the defined geographic boundary defined in 
+Section IV.A. (Geographic Eligibility for Electricity Products), the product will need to 
+be marketed as a REC product and contain the appropriate disclosure language (see 
+Green e® Energy Code of Conduct). 
+- 22 This only applies to specific purchases of electricity from a specific generation source(s) rather than purchases of 
+system mix or local power pool electricity. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 18 C. Products Contracting Supply from Portions of Specific Facilities to Individual 
+Customers23 
+- Some participants offer products where customers (residential and non residential) 
+can enroll to purchase renewable electricity from a portion of a specific generating 
+unit. In these cases, the Participant selling a Green e® Energy certified product 
+might have multiple generating units for which different customers have enrolled to 
+purchase portions of output. For instance, half of the customers are enrolled to 
+purchase portions of the output from Solar Farm A and the other h alf are enrolled to 
+purchase por tions of the output from Solar Farm B. In these cases, Green e® Energy 
+waives the requirement to provide all customers of Single Mix products renewable 
+energy from the same facilities. In such cases, the Participant may alter the specific 
+facility providing electricity to the customers, but not the resource type. A pr ogram 
+of this type is a unique certified product requiring a contract with CRS, fee 
+assessment and annual verification. 
+- 1. In order to qualify for Green e® Energy certification under this program model, all 
+of the below criteria must be met: 
+a. The product must be structured such that each customer signs up to 
+purchase renewable energy entirely from one specific generating unit; 
+b. Any one customer cannot enroll for 100% of a facility’s output; 
+c. The product purchased by each customer must contain the same resource 
+type. Each customer’s purchase may vary as to the source facility within a 
+resource type, but all customers must receive the same overall resource type. 
+- 2. In certain cases, Green e® Energy will consider certifying the sale of renewable 
+electricity from facilities used in these products for more than the 15 year “New 
+Date” window described in Section II.E, above, and up to 30 years. In order to be 
+considered for such an exception, a Green e® Energy participant must submit a 
+formal Community Renewables program exception request to the Green e® 
+Governance Board. 
+- V. ADDITIONAL CRITERIA FOR REGULATED UTILITY PRODUCTS 
+- A. Product Pricing 
+- In no case should the above market costs of the energy used directly for a certified 
+utility product be allocated to customers who are non participants in the program. If 
+such costs are related to public policy initiatives deemed acceptable by their 
+regulators, a utility may appeal to the Green e® Governance Board for approval. 
+- 23 This section IV.C does not apply to regulated utility products that meet the criteria in section V.E. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 19 B. Marketing and Performance Targets 
+- If local stakeholders believe a certified product is not receiving sufficient marketing 
+support, the stakeholders can petition CRS to require that the utility offering the 
+program provide additional information, such as overall marketing expenditures for 
+the certified product . All information provided by participating utilities to fulfill this 
+criterion will be treated as confidential by the Center for Resource Solutions. The 
+Board reserves the right to make case bycase determinations on the adequacy of 
+individual marketing efforts made by participating util ities. 
+- C. Waitlists for Green Pricing Products 
+- In the event that a utility Green Pricing product becomes fully subscribed, 
+consumers may have to be placed on a waiting list before they can officially 
+subscribe to such a program. If program providers have a waiting list, the waiting 
+period must not last more than one year from when the customer seeks to join the 
+program. Should the program provider accru e a waiting list of interested 
+Participants, the provider shall send a stand alone letter to the waiting list on a semi 
+annual basis explaining why the list is not being served and what steps the provider 
+plans to take to rectify the supply/demand imbalance. In the event that the program 
+provider holds a waiting list, it shall notify CRS immediately stating the reasons for 
+the insufficient supply and actions planned to remedy the situation. In the event of a 
+semi annual wait list notification, the provider shall notify CRS of the event and 
+provide the number of customers on the waiting list. Enrolling but not serving 
+customers for more than one year may be grounds for removing certification. 
+- D. Regulatory Approval 
+- Certification is only available to products that have been approved by the 
+appropriate regulatory or oversight body with jurisdiction over the product prior to 
+the products’ nomination for certification. 
+- E. Tariffs with Long Term Contract Options 
+- Utility products can be approved by CRS staff under the eligibility criteria in Section 
+II.H of this Standard for up to the longest customer commitment contract term if the 
+product meets the following criteria: 
+- 1. The product contains varying customer commitment lengths but has a 
+commitment length option up to the maximum approved long term contract 
+option per Section II.H. 
+2. For products offered to non residential customers, at least 25% of generation 
+must be committed to customers that sign up for the longest option term in 
+their procurement agreement; and those customers are disclosed to Center for 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 20 Resource Solutions within 1 year of the product’s certification, unless otherwise 
+approved by CRS. 
+3. The product must be structured such that every customer enrolled receives 
+renewable electricity from pre specified eligible facilities . 
+4. The product consists of generators dedicated to the product, and resources may 
+be added to the product after initial approval but dedicated resources shall not 
+be removed for the duration of the longest option term. When dedicated 
+generators do not cover the total demand of the product, additional supply from 
+alternative qualifying generators may also be dedicated to the product (bridge or 
+supplemental RECs) if pre approved by CRS staff on a n annual basis. 
+5. After the start date of the product, generators supplying the product that are 
+under long term supply contracts may be added to the list of generators that are 
+dedicated to the product for the longest customer length available at the time 
+the generator is added to the product. 
+6. The product contains non residential customer commitment lengths no shorter 
+than 5 years.24 
+- F. Utility Product s Serving Multiple Utilities (Hub and Spoke) 
+- Some utilities are offering products to customers in conjunction with other local 
+utilities. In one such model, there is a central body (hub) that develops a renewable 
+energy product that is marketed by more than one utility (spokes). For example, the 
+output of a wind turbine, a landfill gas facility, and a solar array could be bundled 
+into one product and sold by all of the members of a transmission and distribution 
+cooperative. Since there is a single product and a single point of contact (the hub), 
+Green e® Energy is willing to treat this as one certification regardless of the number 
+of vendors selling the product so long as they meet all of t he conditions below. 
+- 1. In order to qualify for Green e® Energy certification using the hub and spoke 
+model, the product must: 
+a. Contain the same proportional mix of resources for each participating spoke . 
+Each participating spoke may vary the generation location within a resource 
+type but all participating spokes must offer the same overall mix of resource 
+types. 
+b. Be sold within the same regional area. To receive hub andspoke treatment 
+from Green e® Energy the product resources must be sited in the same area 
+of the country as the customer. The resources do not have to be located all in 
+the same state, but must be in the same region (see section above; 
+Geographic Boundaries for Sourcing Eligible Electricity) as the customers. 
+c. Utilize the same marketing materials for each participating vendor. All 
+- 24 Residential customers are not bound to a commitment length for products that serve both residential and non 
+residential customers . 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 21 participating vendors must use the same marketing materials. Individual 
+utility vendors may brand the marketing materials. However, marketing 
+materials must be consistent across the product service territory so Green e® 
+Energy can do a single marketing compliance review. Limited exceptions to 
+this rule will be tolerated so long as Green e® Energy is notified. 
+d. Undergo a single verification process audit. Green e® Energy program staff 
+must have a single auditor as point of contact. The auditor must have access 
+to customer records of all participating vendors. 
+2. Obligations of the Hub and Spoke Facilitator (the Hub): 
+a. Offer the same product to all participating retail distribution utilities (the 
+Spokes). 
+b. Provide a single point of contact for Green e® Energy. 
+c. Undergo a single annual verification process audit. 
+d. Undergo single marketing compliance reviews. 
+e. Ensure that all requirements of Green e® Energy certification are met. 
+f. Keep Green e® Energy informed at all times regarding which distributors are 
+marketing the product. 
+3. Obligations of the Hub and Spoke Distributors (the Spokes): 
+a. Offer the auditor access to billing records. 
+b. Abide by the Green e® Energy Code of Conduct. 
+- VI. REVISIONS TO THIS STANDARD 
+- This Standard is considered a dynamic document and may change over time to 
+accommodate changes in the renewable energy marketplace, policy changes that 
+affect renewable energy, and/or innovations in renewable energy technology. This 
+standard is revised every five years or more frequently as needed. All revisions and 
+calls for comments will be posted on the Green e® website ( www.green e.org ). For 
+any substantial changes to th is Standard , the Green e® Energy Program commits 
+that: 
+- 1. Stakeholders will be solicited in advance of Green e® Governance Board meetings 
+for input on substantive policy change issues; and 
+2. At least one year of notice (following the date of announcement of Board 
+approval) will be granted to Green e® Energy program participants and other 
+stakeholders before the substantive changes go into effect, unless a more timely 
+change is necessary to respond to a significant and imminent problem 
+threatening the integrity of green power markets. 
+- Marketers of Green e® Energy certified products may petition Green e® Energy for an 
+exemption from specific changes in the criteria if they can document current 
+contracts or other conditions that prevent them from meeting the change. Products 
+that are granted criteria exemptions may be noted on the Green e® web site, and 
+the exemption must be noted to customers in the Terms and Conditions in a clear 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 22 manner (e.g. “25% of the renewable energy content of this product is supplied by 
+facilities put online prior to 2007 ”). 
+- Changes that are not limiting to marketers of Green e® Energy certified products (i.e. 
+will impose no burden on currently certified products) or need to be implemented in 
+the short term to accommodate external policy changes may take effect 
+immediately upon Board approval. 
+- Any Green e® Energy P articipant that includes renewable electricity or RECs from a 
+facility with which i t has a contract approved by Green e® Energy for continued use 
+must disclose such use on the Price, Terms , and Conditions and Product Content 
+Label disclosure provided to customers considering the purchase of a Green e® 
+Energy certified product containing such output. Renewable energy from such 
+facilities may be traded to other Green e® Energy P articipants for use in their own 
+Green e® Energy certified sales so long as the original contract or facility ownership 
+that was granted continued use remains intact through the original period for which 
+it was granted an extension. 
+- Companies with contracts or facilities that have been granted continued use may 
+transfer such contracts or ownership of such faci lities to other Green e® Energy 
+Participants and the original exemption will remain intact for the original period. If a 
+company loses Green e® Energy certification of all products for any reason, the 
+exemptions granted to facilities based on that company ’s contracts or ownership 
+will be withdrawn as of the date that Green e® Energy certification is terminated. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 23 APPENDIX A: STATE SPECIFIC REQUIREMENTS AND 
+RESTRICTIONS 
+- A.1 Texas 
+Market Advisory and Green e® Energy Policy Update; March 24, 2008 ; Updated 
+September,2024 
+- On January 1, 2008, the Public Utility Commission of Texas (“ Texas PUC ”) 
+implemented docket 33492 of Substantive Rule number 25.173. Under this docket, 
+non wind renewable electricity facilities first operational on or after September 1, 
+2005, are granted both a REC and a “Compliance Premium” (CP) for each MWh 
+generated. CPs ca n be bought by a Load Serving Entity to satisfy its RPS obligations, 
+leaving the REC to be bo ught by another party, who may be buying the REC to 
+make a voluntary claim outside of any RPS obligation. However, since both the LSE 
+and the buyer of the REC are claiming the benefits of the renewable MWh, a double 
+claim occurs. 
+- The applicable section of the docket reads: 
+- “(l) Target for renewable technologies other than wind power. In order to meet 
+the target of at least 500 MW of the total installed renewable capacity after 
+September 1, 2005, coming from a renewable energy technology other than a 
+source using wind energy as set forth in subsection (a)(1) of this section, the 
+program administrator shall award compliance premiums to certified REC 
+generators other than those powered by wind that were installed and certified by 
+the commission pursuant to subsection (n) of this section after September 1, 
+2005. A compliance premium is created in conjunction with a REC. 
+(1) For eligible non wind renewable technologies, one compliance premium 
+shall be awarded for each REC awarded for energy generated after 
+December 31, 2007. 
+(2) Except as provided in this subsection, the award, retirement, trade, and 
+registration of compliance premiums shall follow the requirements of 
+subsections (d), (k) and (m) of this section. 
+(3) A compliance premium may be used by any entity toward its RPS 
+requirement pursuant to subsection (h) of this section. 
+(4) The program administrator shall increase the statewide RPS requirement 
+calculated for each compliance period pursuant to subsection (h)(1) of this 
+section by the number of compliance premiums retired during the 
+previous compliance period.” 
+- This docket is available from the Texas PUC web site, at: 
+https://www.puc.texas.gov/agency/rulesnlaws/subrules/electric/25.173/25.173.pdf 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 24 On November 30th, 2023, the Texas ’ PUC adopted a new 16 TAC §25.173, relating to 
+Goal for Renewable Energy. This new rule implements Section 53 of House Bill (HB) 
+1500 enacted by the 88th Texas Legislature (R.S.) and established that for generation 
+between January 1, 2024 and December 31, 2024, compliance premiums will only be 
+issued for solar generation, and compliance premiums will no longer be issued to 
+any generation starting January 1, 2025. 
+Texas House Bill (HB) 1500 is available at: 
+https://legiscan.com/TX/text/HB1500/id/2820169 
+- Resulting Green e® Energy Policy 
+This policy is effective until further notice. 
+- In order to prevent double counting of renewable generation sold in Green e® 
+Energy certified products, Green e® Energy requires that for RECs generated during 
+a period that CPs were issued for the corresponding generation, those RECs and an 
+equal amount of CPs from the same facility are both retired. Any party, not just an 
+LSE, may buy and retire a CP. 
+- This policy applies to: 
+- Generating facilities in Texas that use a renewable resource (as defined in this 
+document) other than wind energy .25 
+o For solar facilities, generation takes place prior to January 1,2025, or 
+o For non solar, non wind facilities, generation takes place prior to 
+January 1, 2024 
+- This requirement allows the buyer of both the REC and the CP to make a full 
+renewable energy claim about the particular MWh of generation. The REC and the 
+CP must both meet the Green e® Energy vintage requirements for the year of sale, 
+though you are not required to procure and retire a REC and a CP that were actually 
+generated simultaneously. 
+- RECs and CPs will be minted and tracked in ERCOT, once the first quarter of 
+generation is rep orted in generators’ ERCOT accounts. Retirement or transfer of 
+RECs and CPs must be substantiated through ERCOT reports and Tracking 
+Attestations by following the methodology laid out in Requirements for Using 
+Tracking Systems in Green e® Energy Annual Ver ification. 
+- 25 The details and dates below are current as of the time of publication of this Standard. However, CPs must be 
+retired if they are issued for generation beyond these dates. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 25 
+A.2 RGGI State Set Aside (CT, DE, ME, MD, MA, NH, NJ, NY, RI, VT) 
+Provisions for Voluntary Renewable Energy Sales and Green e® Energy Eligibility; 
+December 5, 2008; updated in September 2024 
+- Regional Greenhouse Gas Initiative Summary 
+- States in the Northeast and Mid Atlantic (Connecticut, Delaware, Maine, Maryland, 
+Massachusetts, New Hampshire, New Jersey, New York, Rhode Island and Vermont) 
+have agreed to take part in the Regional Greenhouse Gas Initiative (RGGI), a regional 
+capandtrade program for greenhouse gas emissions arising from the electricity 
+sector in those states, commencing January 1, 2009. RGGI policies affect certifi ed 
+sales of renewable energy made within RGGI states, as well as eligibility for Green e® 
+Energy Certificat ion of the sale of renewable energy generated in RGGI states but 
+sold outside of RGGI states. 
+- This Standard currently requires that bundled renewable electricity and unbundled 
+renewable energy certificates (RECs) (collectively “renewable MWh”) contain their 
+full CO 2 emissions reduction benefits. In a region where the emissions from the 
+electric power sector are capped, certain policy provisions must be made to ensure 
+that this core tenet of Green e® Energy policy is preserved; otherwise, Green e® 
+Energy is unable to certify renewable energy transactions in the capped region. In 
+RGGI, seven of the st ates (all of the above except Delaware, Maryland, and New 
+Jersey) have adopted a provision that allows retail voluntary market sales of 
+renewable MWh that are generated in a RGGI state and sold into a RGGI state other 
+than Delaware, Maryland, and New Jersey to have CO 2 emissions allowances retired 
+on behalf of the sales. The rules and mechanisms for retiring emissions allowances 
+on behalf of retail voluntary renewable energy sales are referred to as set aside 
+provisions. 
+- Under these seven states’ rules, renewable MWh can maintain their CO 2 emissions 
+avoidance value through the retirement of RGGI emissions allowances on their 
+behalf. This will allow these renewable MWh to retain their Green e® Energy 
+eligibility, as they will prevent a certain amount of CO 2 from being emitted under the 
+cap. Accordingly, in states that do not retire allowances on behalf of the voluntary 
+renewable energy market, sales of renewable MWh will not be credited with any CO 2 
+emissions reduction benefits under the emissions cap, and thus will not be 
+considered eligible for Green e® Energy certification. 
+- Each of the eight states has developed its own requirements for the process of 
+retiring allowances on behalf of retail voluntary renewable MWh sales, and these 
+requirements must be followed in order to ensure that such transactions remain 
+eligible for Green e® Energy certification, and that retirement of such renewable 
+MWh allows for the ability to make the valid environmental claim that purchasers 
+expect. In response to the creation of these state specific policies, the Green e® 
+Energy Program has created additional rules to maintain the requirements of this 
+Standard. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 26 These Green e® Energy rules are listed below, and went into effect for Green e® 
+Energy certified sales on January 1, 2009. Because RGGI policies are enforceable by 
+law, Green e® Energy cannot offer grandfathering of any affected Green e® Energy 
+rules. New states may join and currently participating states may leave RGGI. Such 
+changes will be addressed in future versions of this Standard accordingly. 
+- Green e® Energy fully supports set aside provisions for renewable energy sales in 
+these RGGI states as a leading example of how cap andtrade can preserve the 
+emissions reduction benefits of the voluntary renewable energy market. Sellers of 
+RGGI renewable MWh into the RGGI states with voluntary renewable energy set 
+aside provisions must follow states’ rules in order to ensure that voluntary renewable 
+energy sales retain their full value. 
+- Due to the RGGI rules addressing the treatment of voluntary renewable energy 
+purchases, renewable energy from eligible generators located in RGGI states 
+(including Delaware, Maryland, and New Jersey) can only be Green e® Energy 
+certified if sold to end use customers located in the seven RGGI states that have 
+voluntary renewable energy set aside provisions. Such customers may still 
+purchase Green e® Energy certified renewable MWh generated outside of RGGI 
+states. Please read all of the text below for important rules regarding the treatment 
+of renewable MWh generated and sold in RGGI states. 
+- Green e® Energy Policy Changes Arising from RGGI Rules 
+- Renewable MWh sold in Green e® Energy certified transactions must meet the 
+eligibility definitions determined by both the state of the sale and this Standard. In 
+the case where one set of rules is more stringent than the other, the more stringent 
+rules must be followed. 
+- A summary table of the following rules is provided at the end of this document. 
+- Wholesale versus Retail Sales of RGGI Renewable MWh 
+Because there is no mechanism in RGGI for wholesale transactions of renewable 
+MWh generated in RGGI states to have CO 2 emissions allowances retired on their 
+behalf, Green e® Energy can no longer certify wholesale transactions of renewable 
+MWh generated in RGGI states. 
+- Geographic Eligibility within and outside of RGGI 
+Because a renewable MWh generated in a RGGI state must have CO 2 emissions 
+allowances retired on its behalf to meet Green e® Energy requirements, RGGI 
+renewable MWh that are sold in Delaware, Maryland, or New Jersey or outside of 
+RGGI are not eligible for Green e® Energy certification. See Table 1 for Green e® 
+Energy eligibility of RGGI renewable MWh inside and outside of RGGI. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 27 Table A1: Green e® Energy Eligibility by Location of Generation and Location of 
+Retail Sale26 
+- Renewable MWh sold to retail customers in: 
+- CT, ME, MA, NH, NY, RI, 
+VT DE, MD, NJ, and all Non 
+RGGI states 
+Renewable 
+MWh 
+generated 
+in: RGGI state Must get allowance to be 
+eligible Ineligible, since no 
+allowance available 
+All other 
+states Eligible; no RGGI 
+allowance necessary Eligible; no RGGI allowance 
+necessary 
+- Generator Operational Date (“New Date”) Definitions 
+The Green e® Energy eligibility New Date described in section II.E of this Standard 
+remains in effect, with the following exceptions. If the New Date is later than any of 
+the online date requirements below, the Green e® Energy New Date is applicable 
+over the particular state’s date. 
+- Vermont: The Green e® Energy New Date applies, or eligible MWh must qualify as 
+Massachusetts or Connecticut new renewables. 
+- Additional State Restrictions and Considerations 
+Delaware, Maryland, and New Jersey: Green e® Energy will not certify sales of 
+renewable MWh generated in RGGI states and sold into Delaware, Maryland, and 
+New Jersey, because these states do not have a set aside provision for voluntary 
+renewable energy sales. Renewable MWh generated in Delaware, Mar yland, and 
+New Jersey and sold into one of the other seven RGGI states may be eligible for 
+Green e® Energy certification, provided that those MWh meet the eligibility 
+requirements of that RGGI state. 
+- State Renewable Resource Type 
+Each RGGI state has its own definitions of which types of renewable resources will be 
+eligible to have allowances retired on their behalf. 
+- In order for a ny sale or for sales to be Green e® Energy certified , the renewable MWh 
+sold must come from facilities that meet the resource eligibility definitions of both 
+the Green e® Energy program and the RGGI state into which the renewable MWh 
+was sold. 
+- Maine: Renewables sold in the state must meet the definition of Maine Class I 
+renewables in the Maine Portfolio Requirement 65 407 CMR Chapter 311. For Green 
+e® Energy purposes, this means that renewable MWh generated by facilities with 
+nameplate capacities of over 100MW may not be sold as Green e® Energy certified in 
+Maine. Fuel cells, biomass and municipal solid waste may be eligible if they meet this 
+Standard but may not be eligible in all cases. 
+- 26 Other sections of this document may contain state or region specific rules that should also be considered when determining 
+eligibility based on generator or customer location. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 28 Massachusetts: Renewables sold in Massachusetts must meet the state’s RPS Class I 
+definition of renewable energy generating sources as well as Green e® Energy 
+eligibility rules. Therefore, hydroelectric facilities that are above 25MW in capacity are 
+not eligible; hydroelectric facilities must be Low Impact Hydropower Institute 
+certified; biomass from wood sources are only eligible if the wood sources can be 
+shown to meet Green e® Energy’s criteria for being waste wood; marine or 
+hydrokinetic energy is not e ligible; a Class I renewable generating source may be 
+located behind the customer meter within the ISO NE control area if the output is 
+verified by an independent verification system participating in the NEPOOL GIS 
+accounting system and approved by the Mas sachusetts Department of Energy 
+Resources. 
+- New Hampshire: Rules mirror the standard RGGI resource type rules, except that 
+certain restrictions on biomass apply. Class III and IV renewables are not eligible. No 
+methane or solar water heating is allowed for use in Green e® Energy certified sales, 
+despite being eligible for the state’s set aside in general. 
+- New York: For renewable MWh from hydro sold in New York to be eligible for Green 
+e® Energy certification, the hydro facility must be certified by the Low Impact 
+Hydropower Institute. 
+- Vermont: Hydroelectric facilities over 200MW in capacity are ineligible. Solid waste 
+must be agricultural or silvicultural waste in order to be eligible. CT Class I and MA 
+qualifying unit resource definitions are acceptable in Vermont as well; see those 
+state’s requirements for their specific eligibilities. 
+- Generator Location Eligibility 
+Similar to above, the geographic eligibility requirements of both Green e® Energy 
+and the RGGI state into which the renewable MWh was sold must be met in order 
+for the renewable MWh sale to be Green e® Energy certified. While Green e® Energy 
+does not have geographic requirements for RECs, if Green e® Energy certified 
+renewable MWh are used to supply a Green e® Energy certified renewable electricity 
+program in a RGGI state, buyers and sellers should be aware of Green e® Energy 
+geographic requirements for ele ctricity products. These requirements are available 
+in this Standard. 
+- Massachusetts: In order for renewable MWh from RGGI states to be eligible in 
+Massachusetts, the electricity generated with the renewable MWh must be 
+delivered into ISO NE. 
+- Vermont: The electricity generated with RECs sold into Vermont must be imported 
+into ISO NE. 
+- Tracking System Use for RGGI Compliance 
+Maine: In order to have allowances retired for voluntary renewable energy sales, 
+documentation provided to the state’s environmental agency must be derived from 
+data from a tracking system if possible; there are some eligible generators in Maine 
+that are o utside the footprint of the NEPOOL GIS tracking system that may provide 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 29 data from the entity that oversees the electricity transmission system in a 
+generator’s area. 
+- New York: Sellers of RGGI RECs into New York must create a RGGI CO2 Allowance 
+Tracking System (COATS) account. 
+- Additional Issues Pertaining to RGGI and Green e® Energy Policies 
+- Verification and Reporting Timing 
+Each RGGI state has developed its own timelines for compliance with its voluntary 
+renewable energy set aside provision. These timelines include the date a renewable 
+MWh seller must report to the state’s environmental agency, the date the agency 
+will retire the allowances, and the date the retirements are actually made. In many 
+states, the deadline for reporting retail voluntary sales to the environmental agency 
+falls after Green e® Energy’s deadline for delivery of the annual Green e® Energy 
+Verification Submission. Green e® Energy is monitoring these state deadlines as they 
+are announced and will periodically revise verification protocols and deadlines for 
+Green e® Energy certified sales reporting with them in mind. 
+- Full Carbon Value and Renewable MWh Sales Exceeding Available Allowances 
+Each RGGI state (except Delaware, Maryland, and New Jersey) will put aside a finite 
+number of allowances that can be retired on behalf of voluntary renewable MWh 
+sales in the state. There is the possibility that the volume of renewable MWh sold in a 
+state could exceed the allowances that have been put a side to ensure that each 
+renewable MWh can claim its full carbon value. Based on the manner in which 
+states’ rules are currently written, there are two possible results in terms of the 
+carbon value assigned t o a particular renewable MWh. Either all renewable MWhs 
+sold in the state in that year receive the same carbon value, which would be less 
+than a renewable MWh would have received if the allowances had not been 
+exhausted, or allowances are retired on a firs tcome firstserved basis such that later 
+sales receive little or no carbon value. 
+- Renewable MWh must be granted their full possible carbon value as prescribed in 
+the state voluntary renewable energy set aside provision in order for their sale to be 
+eligible for Green e® Energy certification. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 30 Summary of Resulting Green e® Energy Rules 
+- State New Date Renewable 
+Resources Eligibility Generator 
+Location 
+Eligibility Where In 
+State 
+Generation 
+Can Be Sold Other Rules and 
+Restrictions 
+Connecticut Green e® 
+Renewable Energy 
+Standard for 
+Canada and the 
+United States Green e® Renewable 
+Energy Standard for 
+Canada and the 
+United States Green e® 
+Renewable 
+Energy Standard 
+for Canada and 
+the United 
+States RGGI states 
+excluding DE, 
+MD, and NJ 
+Delaware Ineligible 
+Maine Green e® 
+Renewable Energy 
+Standard for 
+Canada and the 
+United States 100 MW and under 
+only Green e® 
+Renewable 
+Energy Standard 
+for Canada and 
+the United 
+States RGGI states 
+excluding DE, 
+MD, and NJ NEPOOL GIS must 
+be used where 
+available in ME 
+Maryland Ineligible 
+Massachusetts Green e® 
+Renewable Energy 
+Standard for 
+Canada and the 
+United States; no 
+vintage waivers Hydro over 25 MW 
+ineligible; wood 
+must be waste 
+wood; behind themeter restrictions The electricity 
+generated with 
+RECs must be 
+imported into 
+ISONE with the 
+RECs RGGI states 
+excluding DE, 
+MD, and NJ MA Class I 
+renewables only. 
+New Hampshire Green e® 
+Renewable Energy 
+Standard for 
+Canada and the 
+United States No solar water 
+heating. No 
+methane ; some 
+biomass restrictions Green e® 
+Renewable 
+Energy Standard 
+for Canada and 
+the United 
+States RGGI states 
+excluding DE, 
+MD, and NJ No Class III or IV 
+renewables. 
+New York Green e® 
+Renewable Energy 
+Standard for 
+Canada and the 
+United States Green e® Renewable 
+Energy Standard for 
+Canada and the 
+United States Green e® 
+Renewable 
+Energy Standard 
+for Canada and 
+the United 
+States RGGI states 
+excluding DE, 
+MD, and NJ Seller of RGGI RECs 
+into NY must 
+create a RGGI CO2 
+Allowance Tracking 
+System (COATS) 
+account. 
+New Jersey Ineligible 
+Rhode Island Green e® 
+Renewable Energy 
+Standard for 
+Canada and the 
+United States Green e® Renewable 
+Energy Standard for 
+Canada and the 
+United States Green e® 
+Renewable 
+Energy Standard 
+for Canada and 
+the United 
+States RGGI states 
+excluding DE, 
+MD, and NJ 
+Vermont Must qualify as MA 
+or CT new 
+renewables, or 
+Green e® 
+Renewable Energy 
+Standard for 
+Canada and the 
+United States No Hydro over 
+200MW; no solid 
+waste other than ag 
+or forestry waste The electricity 
+generated with 
+RECs must be 
+imported into 
+ISONE with the 
+RECs. RGGI states 
+excluding DE, 
+MD, and NJ VT also accepts CT 
+Class I and MA 
+qualifying units: 
+see those state’s 
+rules 
+- Additional information about RGGI state statutes and regulations is available at 
+https://www.rggi.org/design/regulations . 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 31 A.3 Hawaii 
+Market Advisory and Green e® Energy Policy Update ; July 15, 2010 
+- Hawaii’s RPS eligibility rules defined in June 2006 by SB 3185, and revised in the June 
+2009 signing of HB 1464, contain language counting all customer sited, grid 
+connected renewable electricity towards the RPS by default. This language results in 
+a doubl e claim of the renewable attributes of the MWh for any renewable energy 
+certificates (RECs) from Hawaii generated since June 2006 sold into the voluntary 
+market. 
+- The applicable section of the current RPS reads: 
+- “Renewable electrical energy” means: 
+- (1) Electrical energy generated using renewable energy as the source; and 
+(2) Electrical energy savings brought about by: 
+(A) The use of renewable displacement or off set technologies, including 
+solar water heating, sea water air conditioning district cooling systems, 
+solar air conditioning, and customer sited, grid connected renewable 
+energy systems; provided that, beginning January 1, 2015, electrical energy 
+savings shall not include customer sited, grid connected renewable 
+energy systems; 
+- According to discussions with the Hawaii PUC, the PUC is interpreting the above 
+language as counting all grid connected renewable electricity facilities, including all 
+customer sited, grid connected renewable energy systems, toward the state’s RPS 
+goal. 
+- The full RPS language is available for download here: 
+http://www.capitol.hawaii.gov/session2015/bills/HB623_CD1_.HTM 
+- The Hawaii PUC does not currently have a mechanism to account for sales of 
+voluntary RECs. 
+- Resulting Green e® Energy Policy 
+- In order to prevent double counting of renewable generation sold in Green e® 
+Energy certified products, RECs and renewable electricity generated in Hawaii on or 
+after January 1, 2006, are not currently eligible for Green e® Energy certified sales . 
+This policy is effective immediately and will remain in effect until further notice. 
+- This decision has been made based on discussions with a number of involved 
+parties, including the Hawaii PUC, all of whom agreed that this policy addresses the 
+issue appropriately and reasonably. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 32 A.4 Michigan 
+Market Advisory and Green e® Energy Policy Update; July 15, 2010 
+- In October 2008, Public Act 295 (2008 PA 295) was enacted, establishing Michigan’s 
+renewable energy standard. Under this act, different types of credits are given to 
+renewable electricity generators, in addition to a REC, for the use of different 
+technolog ies and in state labor and equipment. “Incentive Renewable Energy 
+Credits” (IRECs) can be used by an electric provider to satisfy its renewable portfolio 
+standard (RPS) obligations, leaving the REC to be bought by another party, who may 
+be buying the REC t o make a voluntary claim outside of any RPS obligation. Any 
+party, not just an electric provider, may buy and retire an IREC. However, since both 
+the electric provider and the buyer of the REC are claiming the benefits of an 
+individual renewable MWh, a dou ble claim occurs. 
+- The applicable section of the Act reads: 
+- “(2) Subject to subsection (3), the following additional renewable energy credits, 
+to be known as Michigan incentive renewable energy credits, shall be granted 
+under the following circumstances: 
+- (a) 2 renewable energy credits for each megawatt hour of electricity from solar 
+power. 
+(b) 1/5 renewable energy credit for each megawatt hour of electricity 
+generated from a renewable energy system, other than wind, at peak 
+demand time as determined by the commission. 
+(c) 1/5 renewable energy credit for each megawatt hour of electricity 
+generated from a renewable energy system during off peak hours, stored 
+using advanced electric storage technology or a hydroelectric pumped 
+storage facility, and used during peak hours. However, the number of 
+renewable energy credits shall be calculated based on the number of 
+megawatt hours of renewable energy used to charge the advanced electric 
+storage technology or fill the pumped storage facility, not the number of 
+megawatt hours actu ally discharged or generated by discharge from the 
+advanced energy storage facility or pumped storage facility. 
+(d) 1/10 renewable energy credit for each megawatt hour of electricity 
+generated from a renewable energy system constructed using equipment 
+made in this state as determined by the commission. The additional credit 
+under this subdivision is available for th e first 3 years after the renewable 
+energy system first produces electricity on a commercial basis. 
+(e) 1/10 renewable energy credit for each megawatt hour of electricity from a 
+renewable energy system constructed using a workforce composed of 
+residents of this state as determined by the commission. The additional credit 
+under this subdivision is availab le for the first 3 years after the renewable 
+energy system first produces electricity on a commercial basis.” 
+- The Act is available from the Michigan PSC web site, at: 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 33 http://www.michigan.gov/documents/mpsc/2007 SNB 0213_254495_7.pdf 
+- Resulting Green e® Energy Policy 
+- In order to prevent double counting of renewable generation sold in Green e® 
+Energy certified products, Green e® Energy requires that for any MWh of generation 
+from Michigan renewable energy facilities, both RECs and a quantity of IRECs 
+equivalent to those IRECs generated with the RECs are retired . 
+- This policy is effective immediately and will remain in effect until further notice. 
+- This requirement allows the entity buying and claiming the REC through a Green e® 
+Energy certified sale to make a full renewable energy claim about the particular 
+MWh of generation. The REC and the IREC(s) must both meet the Green e® Energy 
+vintage requirements for the year of sale, though renewable energy sellers 
+participating in Green e® Energy are not required to procure and retire a REC and an 
+IREC that were actually generated simultaneously. 
+- RECs and IRECs may be minted and tracked in MIRECS, once the first quarter of 
+generation is reported in generators’ MIRECS accounts. Retirement or transfer of 
+RECs and IRECs must be substantiated through MIRECS reports and Tracking 
+Attestations by followin g the methodology laid out in Requirements for Using 
+Tracking Systems in Green e® Energy Annual Verification, an appendix to the Green 
+e® Energy Verification Instructions . 
+- This decision has been made based on discussions with a number of involved 
+parties, all of whom agreed that this policy is appropriate to address the threat of 
+double counting. 
+- A.5 California Greenhouse Gas Cap andTrade 
+Program Market Advisory and Green e® Energy Policy Update; December 11, 2012 
+- California Greenhouse Gas Cap andTrade Program Summary 
+- As one of the strategies to meet California’s Global Warming Solutions Act (AB32), 
+California has implemented a cap andtrade program for greenhouse gas emissions 
+arising from the electricity sector and other sources. This program commences 
+January 1, 2012 , with the first enforceable compliance obligations beginning with 
+2013 electricity generation and emissions. The California cap andtrade policies are 
+implemented by the California Air Resources Board (ARB), and will affect renewable 
+electricity generatio n that either takes place in the state or that is “directly 
+delivered”27 into the state. 
+- 27 As defined in Section 95102(a) of the ARB’s “Regulation for the Mandatory Reporting of Greenhouse Gas Emissions” 
+(Mandatory Reporting Regulation or MRR), available at http://www.arb.ca.gov/cc/reporting/ghg rep/ghg rep.htm . As 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 34 
+This Standard requires that bundled renewable electricity and unbundled renewable 
+energy certificates (RECs) (collectively “renewable MWh”) contain their full CO 2 
+emissions reduction benefits. In a region where the emissions from the electric 
+power sector are capped, Green e® Energy certification requires that all of the CO 2 
+benefits of renewable electricity generation are demonstrably preserved to the 
+benefit of the renewable energy buyer. California has adopted a provision that allows 
+retail voluntary mar ket sales of renewable MWh that are sourced from in state 
+renewable generators, or from facilities that directly deliver electricity to the 
+California grid, to have California Greenhouse Gas Emission Allowances retired on 
+behalf of the retail purchaser. Th is allowance retirement will enable these renewable 
+MWh to retain their Green e® Energy eligibility. The rules and mechanisms for 
+retiring allowances on behalf of retail voluntary renewable energy sales are generally 
+referred to as “set aside” provisions, and under California’s Cap andTrade program 
+rules are called the Voluntary Renewable Energy Program (VREP). 
+- In response to the creation of VREP, Green e® Energy must change a number of 
+rules to maintain the intent and function of this Standard . These Green e® Energy 
+rule changes are listed below, and went into effect for Green e® Energy certified 
+sales that were supplied by generation occurring on or after January 1, 2013, 
+including sales made in 2012 that were supplied by first quarter 2013 generation. 
+- Resulting Green e® Energy Policy 
+- Facilities that are eligible for the VREP must follow the rules set forth in Section 1, 
+below. Facilities that are in or directly delivering to California that are not VREP 
+eligible, but otherwise meet all other relevant Green e® Energy rules, must follow 
+Section 2. All facilities must also meet all applicable Green e® Energy eligibility rules 
+regardless of VREP eligibility. If the seller of a Green e® Energy certified product is 
+also an obligated entity under the California cap andtrade program, allowances 
+used for compliance with Green e® Energy rules may not also be used toward the 
+seller’s cap andtrade compliance obligation. Proof that allowances were retired 
+properly will be required for Green e® Energy verification. 
+- RECs generated by facilities that are outside of California and not directly delivering 
+to California do not require use of the VREP or allowance retirement in order to be 
+eligible for use in Green e® Energy certified sales. 
+- of 9/18/2012, the definition is as follows: “Direct delivery of electricity” or “directly delivered” means electricity that 
+meets any of the following criteria: (A) The facility has a first point of interconnection with a California balancing 
+authority; (B ) The facility has a first point of interconnection with distribution facilities used to serve end users within 
+a California balancing authority area; (C) The electricity is scheduled for delivery from the specified source into a 
+California balancing autho rity via a continuous transmission path from interconnection of the facility in the 
+balancing authority in which the facility is located to a final point of delivery located in the state of California; or (D) 
+There is an agreement to dynamically transfer e lectricity from the facility to a California balancing authority.” 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 35 
+Table A2: Requirements to Retire a California Eligible Allowance Based on 
+Generator Location 
+- Renewable Electricity or 
+RECs from Facility Located: Allowance Necessary for Eligibility? 
+In CA or Directly Delivering to 
+CA Yes. Must retire allowance through 
+VREP, or retire CA eligible allowances 
+separately 
+Outside of CA and not 
+Directly Delivering to CA No. VREP or CA eligible allowance 
+retirement not necessary for eligibility.28 
+- Because California cap andtrade policies are required by law, Green e® Energy 
+cannot offer grandfathering related to any affected Green e® Energy rules. 
+- Determining VREP Eligibility 
+VREP eligibility is determined by Section 95841.1 of the ARB’s Final Regulation Order, 
+Subchapter 10 Climate Change, Article 5, title 17, California Code of Regulations 
+(“Final Regulation Order”), which states that in order to produce VREP eligible MWh, 
+generators in or directly delivering to California must be certified as RPS eligible by 
+the CEC and have a commercial online date of July 1, 2005 or later, or must meet 
+design and installation standards pursuant to the California Energy Commission’s 
+(CEC) Gu idelines for California’s Solar Electric Incentive Programs, third edition, June 
+2010. The Final Regulation Order is available at: 
+http://www.arb.ca.gov/cc/capandtrade/capandtrade.htm 
+- 1. VREP Eligible Facilities 
+Renewable MWh generated by Green e® Energy eligible generators located in or 
+directly delivering to California on or after January 1, 2013 can only be Green e® 
+Energy certified if allowances set aside for the VREP are retired on their behalf. For 
+renewable MWh that meet VREP eligibility requirements (VREP eligible MWh) , 
+allowance retirement can occur through VREP reporting. Section 95841.1 of the Final 
+Regulation Order provides details on the attestations and other documentation that 
+must be included with a VREP application submitted to the ARB. 
+- A. Generator Online Dates Must be July 1, 2005 or Later (“New Date” Definition) 
+Eligible renewable MWh generated in or directly delivered to California must 
+come from facilities that first came online on July 1, 2005 or later in order to be 
+eligible for VREP. When the New Date described in Section II.E of th is 
+Standard is later than 2005, the Green e® Energy New Date will be applicable 
+in place of California’s July 1, 2005 date. 
+- B. Renewable Resources must be Eligible under Green e® Energy AND VREP 
+Rules 
+- 28 If facility is in a RGGI state (Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New York, 
+Rhode Island and Vermont), see Section A.2 of Appendix A of this document. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 36 The renewable MWh sold must come from facilities that meet the resource 
+eligibility definitions of both Green e® Energy and the VREP, which refers back 
+to the resource definitions of the California Renewables Portfolio Standard 
+(RPS). Where one set of rules is more restrictive than the other, the more 
+restrictive rules must be followed. Eligibility of any individual generator will be 
+determined by considering all the requirements of th is Standard, the CEC’s 
+http://www.energy.ca.gov/2012publications/CEC 3002012 002/CEC 3002012 
+002CMF.pdf29 and the ARB’s Final Regulation Order. For example, 
+hydroelectric facilities over 30 MW in capacity are ineligible if they are located 
+in or directly delivering to California.30 Additional restrictions apply to the 
+incremental increase in generation resulting from efficiency improvements to 
+a hydroelectric facility. Certain additional restrictions on biomass, biodiesel, 
+fuel cells and municipal solid waste also apply. 
+- C. VREP is not Available for Wholesale Sales, Wholesale Sales Must Include 
+Independent Retirement of Allowances 
+Because only retail renewable energy transactions are eligible for the VREP, 
+ALL Green e® Energy certified wholesale sales of MWh from facilities 
+generating in or directly delivering to California MUST follow the instructions 
+in Section 2 below to retire California eligible allowances. 
+- 2. Facilities Not Eligible for VREP 
+Independent retirement of California eligible allowances must be demonstrated for 
+Green e® Energy certification of renewable MWh generated in or directly delivering 
+to California. The first seller of such MWh in a Green e® Energy certified retail or 
+wholesale transaction must demonstrate retirement of California eligible emissions 
+allowances31 in amounts in accordance with the ARB’s allowance calculation 
+methodology for VREP.32 An account in the “Compliance Instrument Tracking 
+System Service” (CITSS) emissions allowance tracking system is necessary in order 
+for a Green e® Energy Participant to retire California eligible allowances. 
+Alternatively, the seller of a California eligible allowance to a Green e® Energy 
+Participant may retire a California eligible allowance on behalf of the Participant’s 
+Green e® Energy certified sale. 
+- 29 See: http://www.energy.ca.gov/renewables/documents/ 
+30 Under limited circumstances the following types of hydropower may be eligible: generation attributable to 
+incremental capacity at a hydropower facility over 30MW; and 40MW hydro facilities that are “Operated as Part of a 
+Water Supply or Conveyance System” according to the California RPS rules. Hydropower facilities must also comply 
+with Section II.A.4 of this Standard. 
+31 At the time of publication, only California Greenhouse Gas Emission Allowances are included, but if California links 
+with Quebec or other jurisdictions then allowances from a jurisdiction that is accepted for compliance by California 
+will also be accepted by Green e Energy. California eligible offsets are NOT included. 
+32 See Section 95841.1(c) of the Final Regulation Order for calculation details available at 
+http://www.arb.ca.gov/cc/capandtrade/capandtrade.htm . The annual Emissions Factor referenced in this section is 
+available in Section 95111(b)(1); as of 9/15/2012 this factor is 0.428 MT of CO2e/MWh. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 37 Additional Considerations Pertaining to California and Green e® Energy Policies 
+- Verification and Reporting Timing 
+According to ARB rules, a renewable MWh end user or seller must report sales of 
+MWh generated in a particular year to the ARB no later than July 1 of the year 
+following the year of generation. The ARB will accept reporting prior to July 1; early 
+reporting is preferred in order to secure VREP allowances and streamline Green e® 
+Energy verification . Coupled with Green e® Energy vintage requir ements (see 
+Section III.B of this Standard), sellers of Green e® Energy certified products that use 
+generation from the second half of the year prior to the sales year must therefore 
+report the generation from the prior year in accordance with the ARB’s deadline for 
+that prior year of sale. For example, if a seller uses November 2015 generation in a 
+2016 Green e® Energy certified sale, the November 2015 generation must be reported 
+to the ARB by July 1 of 2016 in order to have allowances retired on its behalf through 
+the VREP. Proof of allowance retirement, either through VREP or through separate 
+allowance purchase and retirement, must be provided to Green e® Energy by the 
+annual Green e® Energy verification submission deadline or within 10 business days 
+of the date the ARB notifies the Green e® Energy Participant of VREP retirement, 
+whichever is later. 
+- Full Carbon Value and Renewable MWh Sales Exceeding VREP Allowance 
+Availability 
+Each year, California will set aside a finite number of allowances through VREP that 
+can be retired on behalf of sales of eligible voluntary renewable MWh from that year. 
+The ARB will allocate VREP allowances on a first come first served basis, and there i s 
+the possibility that the volume of eligible renewable MWh sold and reported to VREP 
+could exceed the equivalent amount of VREP allowances necessary to ensure that 
+each renewable MWh can claim its full carbon value. If the VREP has been fully 
+subscribed, and there are no allowances remaining for VREP eligible renewable 
+MWh, it is up to the seller to procure and retire allowances in an amount equal to 
+what the CA ARB would have retired had there been sufficient allowances in the 
+VREP; see footnote 16 for ca lculation details. 
+- Attestations and Reporting Requirements 
+California requires certain attestations are made by those applying for allowance 
+retirement under VREP, and also has various program requirements pertaining to 
+the data and reports that must be submitted to qualify for VREP. It is recommended 
+that renewab le energy sellers seeking allowance retirement in California read 
+through the full set of requirements, in Section 95841.1 of the Final Regulation Order 
+or call the ARB hotline at (916) 322 2037. 
+- Updates to California Regulations 
+The California Air Resources Board and California Energy Commission might at any 
+time undertake processes to update or change rules that may affect the VREP rules. 
+Green e® Energy rules will have to adapt to these changes, in most cases without 
+providing sellers of affected renewable MWh the flexibility of grandfathering or 
+generous notice. To stay informed of pending comment periods and updates, the 
+ARB and CEC provide the following resources: 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 38 • ARB Cap andTrade provides a listserv: 
+http://www.arb.ca.gov/listserv/listserv_ind.php?listname=capandtrade 
+- CEC listserv sign up: http://www.energy.ca.gov/listservers/ 
+- A.6 Arizona 
+Market Advisory and Green e® Energy Policy Update; July 14, 2015 
+- Generation in the Footprints of Electricity Providers Subject to the Arizona 
+Renewable Energy Standard and Tariff (REST) 
+- On December 31, 2014, the Arizona Corporation Commission (ACC) released Decision 
+no. 74882, which provides a resolution to the reporting challenge that public service 
+corporations serving retail electric load in Arizona (“Affected Utilities,” excluding any 
+Utility Distribution Company with more than half of its customers located outside of 
+Arizona) faced in meeting the distributed generation (DG) portion of the state’s 
+Renewable Energy Standard and Tariff (REST). With this decision, the ACC adopted 
+language that specifically allows Commissioners to consider null power when 
+determining REST compliance. 
+- Selected language from Decision No. 74882 that affects Green e® Participants 
+follows: 
+- “Amend [section] § 1812(B)(l) to expand the specific information to be reported 
+annually by a utility to include kWhs of energy produced within its service territory 
+for which the affected utility does not own the associated RECs, which must be 
+differentia ted from the kWhs of energy for which the affected utility does own the 
+RECs; and” 
+- “Amend [section] § 1812(C) to allow the Commission to ‘consider all available 
+information’ to determine whether an affected utility’s compliance report satisfies 
+the REST rules.” 
+- This ACC decision applies to compliance reports filed in 2015 and thereafter, and 
+includes generation that occurred in 2014. The rule requires an Affected Utility to 
+report all kWh of energy produced within the Affected Utility’s service territory. This 
+decision gives the ACC discretion over whether to consider null power generated in 
+the geographic footprint of Affected Utilities when evaluating the compliance status 
+of the utility which could effectively count RECs generated within the Affected 
+Utility fo otprint, but not owned by the utility. 
+- Resulting Green e® Energy Policy 
+- Green e® Energy Participants using RECs generated in the footprint of Affected 
+Utilities subject to the REST (including, but not limited to, Arizona Public Service 
+[APS] and Tucson Electric Power [TEP]) must follow the steps below in order to 
+maintain REC eligibil ity for a Green e® Energy certification. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 39 
+If a category of the REST is not being met with utility owned and retired RECs, but 
+the utility is considered to be in compliance with the REST, Green e® Energy may 
+regard at least that category of the RECs to be ineligible. 
+- If these steps are not followed, RECs generated in Arizona Affected Utilities’ 
+footprints are not eligible for use in Green e® Energy certified products. 
+- 1. Participant Must Obtain a Copy of the Relevant Affected Utility REST Report 
+The REST report must be submitted during Green e® Energy verification and 
+must: 
+- A. Subtract out the MWh associated with RECs proposed for Green e® Energy 
+certification before total generation is reported 
+B. Contain (e.g. in a table) a listing for each source of generation that clearly 
+shows whether the RECs were used towards REST compliance 
+C. Include a statement identifying the MWh that are subtracted out (identified in 
+1.A above) and that those MWh were not counted towards REST compliance. 
+(As an example: “Green Product sales are subtracted from total Renewable 
+Generation, and do not count tow ard compliance with REST targets.”) 
+Participants must demonstrate through the REST report or ACC statement that only 
+utility owned RECs were used for REST compliance and that the subtracted out 
+MWh (identified in 1 )A above) were not included in the compliance evaluation. 
+- During the Green e® Energy annual verification process, the Participant’s auditor will 
+review and report on information contained in the utility REST report, and may seek 
+additional information when necessary to ensure the RECs put forward for 
+verification have not been cons idered as part of RPS compliance. 
+- 2. Verification and Reporting Timing 
+The utility REST report must be delivered to CRS as soon as possible after ACC staff 
+evaluates REST compliance and no later than the deadline for annual verification 
+materials (typically June 1). 
+- A.7 Quebec Greenhouse Gas Cap andTrade 
+Market Advisory and Green e® Energy Policy Update; December 3, 2018 
+- Québec introduced a cap andtrade program in 2012 with compliance obligation 
+beginning on January 1, 2013. Québec formally linked its greenhouse gas emissions 
+trading system with the state of California on January 1, 2014. The Québec cap andtrade policy is implemented by the Ministère du Développement durable, de 
+l’Environnement et de la Lutte contre les changements climatiques and affects 
+renewable electricity generation that either takes place in the province or that is 
+“directly delivered” into the province. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 40 This Standard requires that bundled renewable electricity and unbundled renewable 
+energy certificates (RECs; collectively “renewable MWh”) contain their full CO 2 
+emissions reduction benefits. In a region where the emissions from the electric 
+power sector are capped, Green e® Energy certification requires that all of the CO 2 
+benefits of renewable electricity generation are demonstrably preserved to the 
+benefit of the renewable energy buyer. To date, Canadian provinces with cap andtrade programs covering the electricity sector have not adopted, or do not have 
+plans to adopt, a provision known as a “voluntary renewable energy set aside,” which 
+would permit retirements of emissions allowances on behalf of retail voluntary 
+market sales of renewable MWh that are generated in the province. 
+- In response to the implementation of the cap andtrade programs, Green e® Energy 
+must change a number of rules to maintain the intent and function of th is Standard . 
+- Resulting Green e® Energy Policy 
+- Facilities that are in or directly delivering to Quebec that otherwise meet all other 
+relevant Green e® Energy rules must follow the rules below. All facilities must also 
+meet all applicable Green e® Energy eligibility rules. If the seller of a Green e® Energy 
+certified product is also an obligated entity under Quebec ’s cap andtrade program, 
+allowances used for compliance with Green e® Energy rules may not also be used 
+toward the seller’s cap andtrade compliance obligation. Proof that allowances were 
+retired properly will be required for Green e® Energy verif ication. 
+- Independent retirement of eligible allowances33 must be demonstrated for Green e® 
+Energy certification of renewable MWh generated in or directly delivering into 
+Quebec . Each seller of such MWh in a Green e® Energy certified retail or wholesale 
+transaction must demonstrate that eligible emissions allowances were retired in 
+amounts in accordance with the methodology provided annually during Green e® 
+Energy verification.34 
+- An account in the relevant emissions allowance tracking system is necessary in 
+order for a Green e® Energy Participant to retire eligible allowances. For Québec 
+generation, the relevant tracking system is the “Compliance Instrument Tracking 
+System Service” (CITSS). Alternatively, the seller of an eligible allowance to a Green e® 
+Energy Participant may retire an eligible allowance on behalf of the Participant’s 
+Green e® Energy certified sale. 
+- 33 At the time of publication, California and Québec’s carbon markets are linked, meaning that California and Québec Greenhouse 
+Gas Emission Allowances may be used for Québec generation. Should other jurisdictions link to this market, then allowances fr om 
+the jurisdictions that are accepted for compli ance by Quebec will also be accepted by Green e Energy. California or Province 
+specific eligible offsets are NOT included. 
+34 Information pertaining to emissions allowances in association with Canadian Greenhouse Gas Cap andTrade programs can be 
+found on the Green e Participant Portal at www.green e.org. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 41 A.8 Washington Greenhouse Gas Cap andTrade 
+Market Advisory and Green e® Energy Policy Update; December 15, 2022 
+- Washington has implemented a cap andinvest program for greenhouse gas 
+emissions arising from the electricity sector and other sources. This program 
+commences January 1, 20 23, with the first enforceable compliance obligations 
+beginning with 20 23 electricity generation and emissions. Washington’s capandinvest policies are implemented by the Department of Ecology (DOE ) and will affect 
+renewable electricity generation that either takes place in the state or that is 
+“directly delivered” into the state. 
+- This Standard requires that bundled renewable electricity and unbundled renewable 
+energy certificates (RECs) (collectively “renewable MWh”) contain their full CO 2 
+emissions reduction benefits. In a region where the emissions from the electric 
+power sector are capped, Green e® Energy certification requires that all of the CO 2 
+benefits of renewable electricity generation are demonstrably preserved to the 
+benefit of the renewable energy buyer. Washington has adopted a provision that 
+allows retail voluntary mar ket sales of renewable MWh that are sourced from in 
+state renewable generators, or from facilities that directly deliver electricity to the 
+Washington grid, to have Washington Greenhouse Gas Emission Allowances retired 
+on behalf of the retail purchaser through a “ voluntary renewable reserve account” . 
+This allowance retirement will enable these renewable MWh to retain their Green e® 
+Energy eligibility. The rules and mechanisms for retiring allowances on behalf of 
+retail voluntary renewable energy sales are g enerally referred to as “set aside” 
+provisions . 
+- In response to the creation of the Voluntary renewable reserve account , Green e® 
+Energy must change a number of rules to maintain the intent and function of this 
+Standard. These Green e® Energy rule changes are listed below and went into effect 
+for Green e® Energy certified sales that were supplied by generation occurring on or 
+after January 1, 20 23, including sales made in 20 22 that were supplied by first quarter 
+2023 generation. 
+- Resulting Green e® Energy Policy 
+- Facilities that are in or directly delivering to Washington that otherwise meet all 
+other relevant Green e® Energy rules must follow the rules below. All facilities must 
+also meet all applicable Green e® Energy eligibility rules. If the seller of a Green e® 
+Energy certified product is also an obligated entity under Washington ’s cap andinvest program, allowances used for compliance with Green e® Energy rules may not 
+also be used toward the seller’s cap andinvest compliance obligation. Proof that 
+allowances were retired properly will be required for Green e® Energy verification. 
+- Renewable MWh generated by Green e® Energy eligible generators with a 
+commercial online date of January 1, 2020 or after that are located in or directly 
+delivering to Washington can only be used for a Green e® Energy certified product if 
+allowances are retired on their behalf. For renewable MWh that meet eligibility 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 42 requirements, allowance retirement can occur through voluntary renewable reserve 
+account reporting to the Department of Ecology. Proof of allowance retirement, 
+either through the voluntary renewable reserve account or through separate 
+allowance purchase an d retirement, must be provided to Green e® Energy by the 
+annual Green e® Energy verification submission deadline. Each seller of such MWh in 
+a Green e® Energy certified retail or wholesale transaction must demonstrate that 
+eligible emissions allowances wer e retired in amounts in accordance with the 
+methodology provided annually during Green e® Energy verification. 
+- Generators with a commercial online date before January 1, 2020 were included in 
+the baseline assessment for cap compliance and do not require allowances to be 
+retired on behalf of their generation. 
+- A.9 North Carolina 
+Market Advisory and Green e® Energy Policy Update; March 28, 2023 
+- In 2021 North Carolina signed into law the “Energy Solutions for North Carolina” 
+carbon reduction bill. This law requires that electric generating facilities owned or 
+operated by public utilities (I.e. Duke Energy) achieve a 70% reduction in emissions 
+of carbon dioxide from 2005 levels by 2030. The scoping plan included as part of the 
+emissions baseline all facilities built prior to January 1, 2023. According to 
+discussions with the North Carolina PUC and Duke Energy, the PUC and Duke 
+Energy are counti ng Duke Energy all owned generation toward compliance and will 
+not maintain regulatory surplus by removing emissions avoided by voluntary 
+renewable energy (VRE) generation from its emissions calculations. This results in a 
+double claim of the renewable at tributes of the MWh for any renewable energy 
+certificates (RECs) from Duke owned generators built on January 1, 2023 or after that 
+sell into the voluntary market. 
+- Resulting Green e Energy Policy 
+- In order to prevent double counting of renewable generation sold in Green e® 
+Energy certified products, RECs and renewable electricity generated by Duke 
+Energy owned generators in North Carolina from facilities built on or after January 1, 
+2023 are not cur rently eligible for Green e® Energy certified sales , this includes the 
+45% of MWh from third party solar developed pursuant to HB 951, of which Duke 
+purchases the energy and environmental attributes. This policy is effective 
+immediately and will remain in effect until further notice. 
+- A.10 Oregon 
+Market Advisory and Green e® Energy Policy Update; January 29, 2024 
+- On January 5, 2024, the Oregon Public Utilities Commission adopted an Order (No. 
+24002) on issues related to the implementation of HB 2021, the Oregon Clean 
+Energy Targets bill. The bill requires that retail electricity providers meet targets to 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 43 reduce greenhouse gas (GHG) emissions associated with the electricity sold to retail 
+electricity consumers as reported to the Oregon Department of Environmental 
+Quality (DEQ). 
+- The Order states that RECs will not be required for compliance with HB 2021. It also 
+states that HB 2021 compliance is not understood to constitute a claim to have 
+delivered renewable energy to an end user. However, the Commission does not 
+make a determina tion about whether HB 2021 delivers retail GHG claims to Oregon 
+customers, i.e. whether HB 2021 compliance reduces emissions associated with 
+electricity delivered to retail consumers in Oregon and therefore constitutes a claim 
+for Oregon retail consumers r egarding the emissions associated with the electricity 
+they use. As a result, the emissions attributes of renewable energy used for HB 2021 
+compliance will likely be claimed for Oregon customers and there may be 
+disaggregation of the REC or double counting of the emissions attribute if the RECs 
+associated with generation reported to DEQ are sold to voluntary renewable energy 
+customers or used for other programs in other states. 
+- In addition, the Order confirms that RECs associated with electricity procured by 
+entities for compliance with HB 2021 are not surplus to regulation and these entities 
+must disclose when selling off those RECs that the generation is still reported as 
+emiss ions free to DEQ. 
+- While the emission reduction target dates in the law are 2030, 2035, and 2040, the 
+Commission clarifies in the Order that the basis for compliance is annual emissions 
+reporting to the DEQ. 
+- The Oregon PUC Order is available at 
+https://apps.puc.state.or.us/orders/2024ords/24 002.pdf (see pg. 5 17). 
+- Resulting Green e® Energy Policy 
+This policy is effective until further notice. 
+- Starting with Jan 1, 2024 generation, RECs associated with generation reported to 
+the Oregon DEQ for compliance with Oregon HB2021 (2021) are not eligible for use in 
+a Green e® certified renewable energy product. 
+- For the sake of clarity, this policy also applies to generation located outside of 
+Oregon and products sold to customers outside of Oregon. For example, if a utility 
+bought bundled renewable electricity from Washington state and reported that 
+electricity t o the Oregon DEQ for compliance with HB2021, the associated 
+Washington RECs would not be eligible under the Green e® Standard. 
+- Green e® Renewable Energy Standard for Canada and the United States 
+© 2024 Center for Resource Solutions. All rights reserved. 44 
+- NOTICE: This Standard is the copyrighted property of Center for Resource Solutions 
+(CRS). It cannot be copied, reprinted or used in any way without permission of CRS. If 
+you wish to obtain permission to use our copyrighted materials, please contact CRS 
+at +1 4155612100 or info@resource solutions.org . 
+-

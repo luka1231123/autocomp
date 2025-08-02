@@ -1,0 +1,172 @@
+SOLAR P HOTO VOLTAIC & SOLAR THERMAL 
+ENERGY SYSTEMS PERMIT CHECKLIST 
+- Building Services | 219 South First Avenue, Suite 208, Hailey , ID 83333 | 2087885573 
+Solar PV & Solar Thermal Energy System Permit Checklist Page 1 of 5 
+OVERVIEW 
+The pre submittal checklist below contains the minimum information and project plan details 
+required to be submitted to Blaine County when applying for a permit to install a residential and 
+commercial/non residential solar photovoltaic (PV) system. The checklist is intended to support solar 
+installers and customers in the solar permit application process, and is not required for submitt al. 
+CODES 
+The adopted building codes for Blaine County are available online at : 
+https://codelibrary.amlegal.com/codes/blainecountyid/latest/blaineco_id/0 001102 . 
+LOCAL DESIGN CRITERIA 
+BLAINE COUNTY BASIC WIND SPEED 115 mph, 3 Second Gust, Exposure C 
+- ROOF LIVE SNOW LOAD REQUIREMENTS 
+North Fork to Smiley Creek 150 PSF 
+North of Ketchum to North Fork 125 PSF 
+West of Ketchum to western end of platted Board's Lower Ranch 110 PSF 
+West of western end of platted Lower Board Ranch 125 PSF 
+East of Triumph 125 PSF 
+North of Bellevue to south of Ketchum 100 PSF 
+Picabo to south of Bellevue 65 PSF 
+Carey including south and east of Carey 50 PSF 
+REQUIRED PERMITS 
+A building and electrical permit must be obtained prior to the start of any work. Complete the permit 
+application form(s) . Blaine County provides a 12 day streamlined review process for solar PV systems . 
+However, the typical 12 day turnaround time are based on best efforts and not guaranteed. 
+Incomplete applications, unlicensed contractors, and insufficient information on equipment and 
+systems can also delay permit turnaround. 
+Check to confirm applications have been completed . 
+- Blaine County Bu ilding Permit Application: 
+- https://www.co.blaine.id.us/DocumentCenter/View/18378/Building Permit Application andoutdoor lightingChecklist 
+- State of Idaho Contractor Electrical Permit Application: 
+https://dbs.idaho.gov/ 
+Solar PV , Solar Thermal, & Energy Storage System Permit Checklist Page 2 of 5 GENERAL PERMIT REQUIREMENTS 
+1. Site plan showing location of major components on the property , roof access points, and 
+pathways . This drawing need not be exactly to scale, but it should represent relative location of 
+components on site (see supplied example site plan). 
+2. Electrical diagram showing PV array configuration, wiring system, overcurrent protection, 
+inverter, disc onnects, required signs, and AC connection to building. Standard electrical diagram s 
+can be downloaded at http://www.solarabcs.org/about/publications/repo rts/expedited 
+permit/forms/index.html . 
+3. Specification sheets and installation manuals (if available) for all manufactured components 
+including, but not limited to, PV modules, inverter(s), combiner box, disconnects, and mounting 
+system. 
+4. Fire District approval for compl iance with the 2018 International Fire Code and Class A materials 
+used for all Solar PV installations on Commercial and Multi unit dwellings . 
+Carey Fire District 2087202076 West Magic Fire District 2084872571 
+North Blaine County Fire District 2087200323 Wood River Fire District 2085786453 
+Smiley Creek Fire District 2088332603 
+5. Small Scale Solar Energy Systems ocupy 1,750 square feet of surface area or less. 
+6. Solar Thermal Systems require plumbing, electrical, and mechanical permits. 
+PERMIT FEES 
+ Blaine County Residential and Commercial Solar Permit Fee: $75.00 
+The fee covers Structural and Zoning Review and two site inspection s. 
+ Idaho Division of Building Safety Electrical Permit Fees for Renewable Energy calculation: 
+https://dbs.idaho.gov/programs/el ectrical program/renewable energy solar wind hydro power 
+production andenergy storage systems/ 
+SOLAR AMERICA BOARD FOR CODES & STANDARDS FORMS 
+Consider utilizing a standard form for submitting plans to facilite the permit review process. Check to 
+confirm if using a Solar AB Cs standard form. 
+- Standard String PV System: Example1 StandardStringSystem.pdf (solarabcs.org) 
+- Micro Inverter PV System: Example2 Micro Inverter.pdf (solarabcs.org) 
+- AC Module PV System: Example3 ACModule.pdf (solarabcs.org) 
+- Supply Side PV System: Example4 Supply SideConnection.pdf (solarabcs.org) 
+INSPECTION REQUIREMENTS 
+Schedule required building inspections listed below by calling 208 7885573, extension #1125. 
+1. Structural inspection 
+2. Final inspection 
+- Solar PV
+, Solar Thermal,
+- & Energy Storage System Permit Checklist
+- Page 
+3
+- of 
+5
+- STRUCTURAL REVIEW 
+FOR ROOFTOP MOUNTED 
+SOLAR
+- SYSTEMS
+- NO
+- YES
+- Check YES or NO for the conditions that apply. 
+If NO checked on any 
+questions 
+provide details certified by a design professional. 
+- Is the array to be mounted to a roof structure that was constructed after 
+January 1, 1992 with a building permit issued by Blaine County? 
+- Is the roofing type lightweight 
+- (Yes = composition, wood shingle, metal, etc.; No = slate, clay, masonry, etc.) 
+- Does the roof have a single layer of roofing materials? 
+- MOUNTING SYSTEM INFORMATION
+- NO
+- YES
+- Check YES or NO for the conditions that apply. 
+If NO checked on any 
+questions 
+provide details certified by a design professional. 
+- Mounting System meets the requirements for site
+- specific Roof Snow Load and 
+Wind Load requirements?
+- If mounted directly to roofing materials (i.e. standing seam), does the 
+roofing 
+material meet mounting system manufacturers thickness and attachment 
+requirements?
+- Is the Weight per Attachment Point less than 45 lbs?
+- Is distributed weight of Solar PV or Thermal system less than 5 lbs/ft
+2
+?
+- a.
+- Provide method and type of weather proofing roof penetrations (e.g. flashing, 
+c
+aulk
+): 
+- FOR MANUFACTURED MOUNTING SYSTEMS, 
+COMPLETE
+- INFORMATION BELOW: 
+- a.
+- Mounting System Manufacturer 
+- Product Name and Model
+- Number
+- b.
+- Total Weight of PV Modules and Rails 
+- lbs 
+- c.
+- Total Number of Attachment Points
+- d.
+- Weight per Attachment Point (b÷c)
+- _
+- lbs 
+- e.
+- Maximum Spacing Between Attachment Points on a Rail 
+- inches 
+- (
+S
+ee product manual for maximum spacing allowed based on maxim
+um design wind speed
+.
+) 
+- f.
+- Total Surface Area of PV Modules (square feet)
+- ft
+2
+- g.
+- Distributed Weight of PV Module on Roof (b÷f)
+- lbs/ft
+2
+- Solar PV , Solar Thermal, & Energy Storage System Permit Checklist Page 4 of 5 STRUCTURAL REVIEW FOR GOUND MOUNTED SOLAR PV & THERMAL SYSTEMS 
+NO YES Check YES or NO to confirm completion of permit application submittal . 
+- Drawings provided that show array supports, framing members, and 
+foundation posts and footings. 
+- Information provided on mounting structure(s) construction with ICCES 
+Report verifying compliance with code requirements . 
+- Detail provided that show module attachment method to mounting 
+structure. 
+- Solar thermal systems: the solar storage tank is placed on a slab on grade, 
+or documentation shows that the floor sys tem can support the load. 
+- ACKNOWLEDGEMENT 
+This checklist takes into account the unused dead load that a second layer of roofing materials would 
+impose upon the roof structure and allows the solar array’s gravity load to be used in place of the 
+dead load allowance for the second roofing materials layer. 
+When the roofing materials meet the end of the intended service life at which they were designed 
+and need to be replaced, the solar array will need to be removed along with all existing roofing 
+materials. Then a new roof can be installed and the solar array re installed, so as to not exceed the 
+designed allowable dead load of the roof structure. 
+Although this checklist takes into consideration the allowable dead loads for a Code compliant roof 
+structure, Bl aine County Building Services recommends consulting with a structural engineer for all 
+increases in gravity loads imposed on existing structures. 
+I hereby acknowledge that I have received and reviewed the above stated policy . 
+- Contractor Signature Homeowner Signature 
+- Print Name: 
+Solar PV , Solar Thermal, & Energy Storage System Permit Checklist Page 5 of 5 EXAMPLE SOLAR SITE PLAN, PV Only with DC Converters. Source: SolSmart
