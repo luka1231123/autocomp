@@ -2,56 +2,66 @@ import argparse
 import subprocess
 import sys
 import json
+from pathlib import Path
+import replicate
 
 class AiSummarizer:
-    def __init__(self, model: str = "llama2:7b"):
-        self.model = model
     def summarize(self, text: str) -> str:
+        system_prompt = (
+            "You are a highly precise and critical AI assistant. "
+            "Your role is to carefully analyze legal and contractual text to determine whether each identified item is a valid and accurate obligation, deadline, payment, or submission requirement, "
+            "or if it is mistaken or irrelevant. "
+            "Only include information that is correct, relevant, and legally significant."
+        )
         prompt = (
-            "You are an AI assistant that extracts calendar events from unstructured text. "
-            "Identify obligations, deadlines, payments, or submissions and output in the following format, and nothing else:\n"
-            "event: [title]\n"
-            "type: [type]\n"
-            "summary: [long summary]\n"
-            "date: [ISO 8601 date]\n\n"
+            "You are tasked with extracting only valid, clear, and legally significant obligations, deadlines, payments, or submission requirements from the provided text. "
+            "Carefully evaluate each potential item to ensure it is accurate, relevant, and not mistaken or out of context. "
+            "If no valid item is found, return nothing.\n\n"
+            "For each valid item, output strictly in the following format (do not include extra commentary or formatting):\n"
+            "event: [a short, precise title describing the obligation or deadline]\n"
+            "type: [one of: obligation | deadline | payment | submission]\n"
+            "confidence: [integer from 0 to 100 representing how certain you are that this is a valid, well-formed item don't be shy to write low scores]\n"
+            "summary: [a detailed but concise summary capturing all legally important details, conditions, and responsibilities]\n"
+            "date: [exact date in DD-MM-YYYY format, or leave blank if no specific date is given]\n\n"
             "Process the following text:\n\n" + text
         )
-        try:
-            result = subprocess.run(
-                ["ollama", "run", self.model, prompt],
-                capture_output=True,
-                text=True,
-                check=True
-            )
-            return result.stdout.strip()
-        except subprocess.CalledProcessError as e:
-            print(f"[ERROR] Ollama call failed:\n{e.stderr}", file=sys.stderr)
-            sys.exit(e.returncode)
-    
+
+        output = ""
+
+        for event in replicate.stream(
+            "openai/gpt-4o-mini",
+            input = {
+                "prompt": prompt,
+                "system_prompt": system_prompt,
+            },
+        ):
+            chunk = event.data
+            print(chunk, end="")
+            output += chunk
+
+        return output
+
     def json2txt(self, json_file: str):
-        with open(json_file, "r") as f:
+        json_path = Path(json_file)
+        with open(json_path, "r") as f:
             data = json.load(f)
         textInputs = []
         for item in data:
             sentence = item.get("sentence")
             date = item.get("dates")
             if sentence is not None and date is not None:
-                textInput= sentence + " " + " ".join(date)
+                textInput = sentence + " " + " ".join(date)
                 textInputs.append(textInput)
+
+        events_dir = Path("events")
+        events_dir.mkdir(exist_ok=True)
+        out_file = events_dir / ("aiEvent" + json_path.stem + ".txt")
+        # delete any previous aiEvent output for this stem
+        if out_file.exists():
+            out_file.unlink()
 
         for textInput in textInputs:
             summary = self.summarize(textInput)
-            print(f"Summary for {summary}\n")
-            out_file = "events/aiEvent" + json_file.stem + ".txt"
+            print(f"Summary for {summary}")
             with open(out_file, "a") as out_f:
-                out_f.write(summary + "\n\n")
-"""
-    def example_usage(self):
-        example_text = (
-            "On August 2, 2025, the annual company meeting will be held at the main office. "
-            "All employees are expected to attend and participate in the discussions regarding "
-            "the upcoming projects and budget allocations."
-        )
-        summary = self.summarize(example_text)
-        print(f"Example Summary:\n{summary}")
-"""
+                out_f.write("\n\n" + summary + "\n\n")

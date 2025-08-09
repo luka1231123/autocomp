@@ -18,6 +18,8 @@ class Cleaner:
         output_dir = Path('text')
         output_dir.mkdir(exist_ok=True)
         output_path = output_dir / (Path(pdf_path).stem + '.txt')
+        if output_path.exists():
+            output_path.unlink()
         with open(output_path, 'w', encoding='utf-8') as txt_file:
             for page in reader.pages:
                 text = page.extract_text()

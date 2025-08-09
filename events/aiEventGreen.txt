@@ -1,313 +1,224 @@
-event: certificates (RECs) sold
-type: sales
-summary: Promote high
-date: 2023-03-15
 
-event: Supply Green e® Energy Certified Products
-type: Obligation
-summary: The company is required to supply Green e® Energy certified products.
-date: 2023-03-15
 
-or
-
-event: Supply Generators
-type: Deadline
-summary: The company must supply generators by the given date.
-date: 2023-03-20
-
-Event: Green e® Renewable Fuels Certification
-Type: Deadline
-Summary: Supply of Green e® Energy certified products must be Green e® Renewable Fuels certified by December 31, 2022.
-Date: 2022-12-31
-
-Event: Remove Forestry Derived Fuels
-Type: Removal
-Summary: Forestry derived fuels were removed in accordance with State or Provincial regulations.
-Date: ISO 8601 date
-
-event: Request for Verification Documentation
-type: Eligibility Verification
-summary: CRS reserves the right to request additional documentation to verify the eligibility of resources.
-date: 2023-04-01T00:00:00Z
-
-Event: Green e® Energy certified product
-Type: Obligation
-Summary: As part of our commitment to sustainability, we are pleased to offer a line of products that have been certified by the Green e® Energy program. This certification ensures that our products meet strict standards for energy efficiency and environmental impact, giving our customers peace of mind when making their purchasing decisions.
-Date: 2023-03-15
-
-Please let me know if you need any further assistance!
-
-Event: Use of generator's output in a Green e® Energy certified product
-Type: Deadline
-Summary: The use of the generator's output in a Green e® Energy certified product is required by a specific date.
-Date: 2023-03-15
-
-Event: Contact 13 Green e Energy Participants or Generators
-Type: Obligation
-Summary: Participants or generators of electricity using tidal and wave-based resources should contact 
-Date: 2023-03-01
-
-Please note that the output format may vary depending on the complexity of the input text, but I will always try my best to provide the most accurate information.
-
-Event: Nuclear Power Purchases
-Type: Deadline
-Summary: The product may not include any specific purchases of nuclear power in the next quarter.
-Date: 2023-03-15
-
-Event: Green e® Energy certified product
-Type: Certification
-Summary: Our company has been certified by Green e® Energy for our innovative and environmentally friendly product.
-Date: 2023-03-15
-
-event: The New Date
-type: deadline
-summary: Continued advancement of The New Date by one year each year after 2026
-date: 2027-01-01T00:00:00Z
-
-Event: Upgrade of Production Line
-Type: Deadline
-Summary: The production line must be upgraded before the new date to ensure smooth operation.
-Date: 2023-03-15T00:00:00Z
-
-event: Pay electricity bill
-type: Deadline
-summary: Pay electricity bill before the new date.
-date: 2023-03-15
-
-Event: Use Green e® Energy certified product
-Type: Obligation
-Summary: Use a product that is certified by Green e® Energy to reduce energy consumption and contribute to sustainability.
-Date: [ISO 8601 date]
-
-Sure, I can help you with that! Here's the information extracted from the given text:
-
-Event: List of Non-Residential End Use
-Type: Obligation
-Summary: Identify and report to Green e® Energy a list of non-residential end use.
-Date: [Not provided in the text]
-
-Event: Green e® Energy certified products sold to non residential customers have no
-Type: Obligation
-Summary: Green e® Energy certified products sold to non residential customers have no obligation to pay any fees or charges for the products.
-Date: 2023-03-15
-
-Event: A Green e® Energy certified product may include only renewables that are
-Type: Obligation
-Summary: The product must meet certain requirements related to the use of renewable energy sources.
-Date: 2023-03-15
-
-event: Green e® Energy certified products must be comprised of eligible renewable energy sources.
+event: Additional documentation requirement for eligibility verification
 type: obligation
-summary: The products must meet certain requirements to be certified by Green e® Energy.
-date: 2023-03-15
+confidence: 80
+summary: 5 CRS reserves the right to demand further documentation to confirm the eligibility of any resource, indicating a condition that must be met by the resource provider.
+date: {}
 
-event: Double Counting Between Compliance and Voluntary Markets
-type: Deadline
-summary: The report highlights the issue of double counting between compliance and voluntary markets, which can lead to inaccurate emissions reporting. It recommends ways to address this issue, including improved communication and coordination between market actors.
-date: 2023-03-15
 
-Event: electricity ineligible for use in Green e® Energy certified sales
-Type: deadline
-Summary: Electricity is not eligible for use in Green e® Energy certified sales.
-Date: 2023-04-01
 
-Event: Electricity Use in Green e® Energy Certified Products
-Type: Obligation
-Summary: Green e® Energy certified products must use electricity.
-Date: 2023-03-01
+{}
 
-Event: Increased energy ineligibility for Green e® Energy certification
-Type: Deadline
-Summary: Energy that is not eligible to be included in a Green e® Energy certified product must be added.
-Date: 2023-03-15
 
-Please note that the above output is just an example of how I can assist you, and it may not be applicable to your specific use case. Can you please provide more context or clarify your requirements so I can better understand how I can help?
 
-event: Green e Energy Program Participants Offering Certified Electricity Product
+{}
+
+
+
+{}
+
+
+
+There are no valid, clear, and legally significant obligations, deadlines, payments, or submission requirements found in the provided text.{}
+
+
+
+{}
+
+
+
+event: Submission of electricity information  
+type: submission  
+confidence: 40  
+summary: The text mentions "electricity" but lacks further context on what specific information or documents must be submitted prior to the "applicable New Date." The vagueness of "New Date" makes it unclear and uncertain as to its legal significance.  
+date: {}
+
+
+
+Nothing{}
+
+
+
+No valid item found.{}
+
+
+
+event: Ineligible Electricity for Green e® Energy Certified Sales  
+type: obligation  
+confidence: 85  
+summary: The obligation specifies that electricity cannot be utilized for sales that are certified under Green e® Energy standards if it is deemed ineligible. This affects the qualification criteria for electricity sourced or sold under this certification.  
+date: {}
+
+
+
+{}
+
+
+
+{}
+
+
+
+{}
+
+
+
+nothing{}
+
+
+
+event: Contract Requirement with CRS
 type: obligation
-summary: As a general principle, Green e Energy Program Participants must offer a certified electricity product.
-date: 2023-02-15
+confidence: 60
+summary: A contract is required with CRS for a unique certified product, indicating that formal agreement and terms must be established for the transaction.
+date: {}
 
-Sure, I can help you with that! Here's the extracted information for the given text:
 
-event: Consideration of 16 additional locations
-type: Decision
-summary: Selecting new locations for expansion
-date: 2023-02-28
 
-event: Green e® Energy Certification
+event: Sending letter to waiting list
 type: obligation
-summary: In all but a few specific cases, Green e® Energy certification is required.
-date: 2023-03-15
+confidence: 70
+summary: The provider is required to send a standalone letter to the waiting list. However, the frequency of "semi" is unclear and does not specify a fixed schedule or condition for this obligation.
+date: {}
 
-event: Energy certified products and participants
+
+
+event: Notification of semi-annual wait list event  
+type: obligation  
+confidence: 80  
+summary: The provider is required to notify CRS of the occurrence of the semi-annual wait list event. The specific details regarding the timing of the notification and additional requirements are not articulated in the text.  
+date: {}
+
+
+
+{}
+
+
+
+Nothing{}
+
+
+
+(There are no valid items found in the provided text.){}
+
+
+
+event: Energy certified sales
+type: submission
+confidence: 60
+summary: Energy certified sales must be submitted as per the obligation established for the specified event.
+date: 01-01-2009{}
+
+
+
+event: Green e® Energy New Date applicability
+type: obligation
+confidence: 40
+summary: The text implies that there are specific online date requirements that are relevant to the Green e® Energy program. However, it does not provide clear details regarding what these requirements are or what obligations they impose.
+date: {}
+
+
+
+{}
+
+
+
+{}
+
+
+
+Nothing{}
+
+
+
+{}
+
+
+
+event: Seller obligation for Green e® Energy product
+type: obligation
+confidence: 80
+summary: The seller is obligated to sell only products certified under the Green e® Energy program, ensuring compliance with the program's standards and requirements for renewable energy certification.
+date: {}
+
+
+
+{}
+
+
+
+{}
+
+
+
+event: Commercial online date requirement
 type: deadline
-summary: Must obtain energy certification for all products and participants by March 31, 2023.
-date: 2023-03-31
+confidence: 75
+summary: The CEC must have a commercial online date established on or after July 1, 2005, or must comply with the conditions that pertain to this date.
+date: 01-07-2005{}
 
-event: Retire Supply
-type: Obligation
-summary: Retire supply on behalf of the Participant's certified sales.
-date: 2023-03-15
 
-Event: Geographic Eligibility for Electricity Products
-Type: Obligation
-Summary: The product will need to meet geographic eligibility criteria set by the electricity provider.
-Date: 2023-03-15
 
-Event: Sell Green e® Energy certified product
-Type: Obligation
-Summary: Participants must sell a Green e® Energy certified product.
-Date: 2023-03-15
-
-Event: Contract with CRS
-Type: Obligation
-Summary: Unique certified product requires a contract with CRS
-Date: 2023-02-28
-
-Event: Waiting List Letter
-Type: Obligation
-Summary: The provider must send a standalone letter to the waiting list.
-Date: 2023-03-15
-
-Event: Waiting List Notifications
-Type: Obligation
-Summary: Provider must notify CRS of waiting list notifications.
-Date: 2023-03-15
-
-Please note that this is just an example output, and the actual format and content of the event may vary depending on the specific context and requirements.
-
-event: Wait List Notification
-type: Obligation
-summary: Provider must notify CRS of any wait list events
-date: 2023-04-01T00:00:00Z
-
-Event: Green e® Energy certification
-Type: Requirement
-Summary: Ensure that all requirements of Green e® Energy certification are met.
-Date: ISO 8601 date (e.g., 2023-03-07)
-
-Event: New Product Certification Requirements
-Type: Regulation
-Summary: The company will impose new certification requirements for all currently certified products. These requirements will not burden existing products and must be implemented within [insert timeframe].
-Date: 2023-03-01
-
-Please note that this is just an example output, and the actual format and content of the event may vary depending on the specific text you provide.
-
-Event: Energy Certification
-Type: Deadline
-Summary: The company must obtain an energy certificate for a new product by the end of next month.
-Date: 2023-04-15
-
-Event: Green e® Energy REC Generation Requirements
-Type: Obligation
-Summary: Green e® Energy requires that RECs generated during [insert date] must be certified as meeting the Green e® Energy standards.
-Date: 2023-03-01T00:00:00+00:00
-
-Event: [Title]
-Type: [Type]
-Summary: [Long Summary]
-Date: [ISO 8601 Date]
-
-Event: Mandatory Standards Update
-Type: Obligation
-Summary: The Standard requires that all bundled renewable electricity and unbundled renewable energy certificates be subject to a mandatory update every five years.
-Date: 2023-03-01
-
-Event: Electric Power Sector Capped
-Type: Policy Provisions
-Summary: Must be made to ensure
-Date: 2023-03-15
-
-Note: The above output is in the format you requested. I have extracted the relevant information from the text you provided, which includes the event title, type, summary, and date.
-
-event: Energy Certified Sales
-type: Deadline
-summary: Sales of energy-efficient products on January 1, 2009
-date: 2009-01-01
-
-Event: Geographic Eligibility
-Type: Deadline
-Summary: The report must be submitted to the RGGI secretariat by January 31, 2023.
-Date: 2023-01-31
-
-event: Renewable MWh Generated in RGGI State Must Have CO2 Emissions
-type: Obligation
-summary: A renewable MWh generated in a RGGI state must have CO2 emissions within a certain limit.
-date: 2023-03-15
-
-Please note that I'm just an AI and this is not a professional legal advice, please consult with a qualified legal expert for any confusion or questions you may have regarding the information provided.
-
-Event: Green e® Energy New Date
-Type: Deadline
-Summary: The online date requirements are applicable.
-Date: 2023-04-01
-
-Event: Vermont Green e® Energy New Date Applies
-Type: Eligibility Requirement
-Summary: Qualifying MWh must apply for the Green e® Energy program by March 31st, 2023.
-Date: 2023-03-31
-
-Event: Determining State or Region-Specific Rules for Project X
-Type: Obligation
-Summary: This section of the document outlines the rules that should be considered when determining state or region-specific requirements for Project X.
-Date: 2023-02-15
-
-Sure! Here's the extracted calendar event for the given text:
-
-Event: Green e® Energy Eligibility Requirements
-Type: Geographic Eligibility Requirements
-Summary: The geographic eligibility requirements for both Green e® Energy and similar programs.
-Date: [ISO 8601 date]
-
-event: Meet RGGI State Requirements
-type: Obligation
-summary: The RGGI state into which the renewable MWh was sold must be met in order to comply with the RGGI regulations.
-date: 2023-03-15
-
-Event: Green e® Energy certified sales reporting
-Type: Obligation
-Summary: Certified sales reporting with a focus on sustainability and environmental impact.
-Date: 2023-02-28
-
-Sure! Here's the extracted calendar event information for the given text:
-
-Event: Energy certified products
-Type: Deadline
-Summary: Certify energy-efficient products to meet Hawaii standards
-Date: 2023-03-15T00:00:00-07:00
-
-event: Requirement for Bundled Renewable Electricity and Unbundled Renewable Energy
-type: Standard
-summary: This standard requires that suppliers of bundled renewable electricity and unbundled renewable energy provide certain information to customers, including the source of the renewable energy, the amount of renewable energy used, and the date by which the energy must be generated from eligible sources.
-date: 2023-03-01
-
-event: Green e® Energy Certification
+event: Generator Online Dates Requirement
 type: deadline
-summary: All CO 2 emissions must be capped.
-date: 2023-03-15T00:00:00Z
+confidence: 90
+summary: The text indicates that any generator must have online dates that are set for July 1, 2005, or later. This specifies a requirement related to the timing of generator operation.
+date: 01-07-2005{}
 
-Event: Renewable Generators
-Type: Obligation
-Summary: Renewable generators must submit their annual reports by March 31st.
-Date: 2023-03-31
 
-Sure! Here's the extracted calendar event based on the given text:
 
-Event: Vendor Inspection for California Facilities
-Type: Deadline
-Summary: Scheduled vendor inspection for facilities located in or delivering to California.
-Date: 2023-03-15
+{}
 
-Please let me know if you need any further assistance!
 
-event: Seller's obligation to deliver product
-type: Deadline
-summary: The seller must deliver the Green e® Energy certified product by March 31, 2023.
-date: 2023-03-31
 
-Event: VREP Retirement
-Type: Obligation
-Summary: Do not require use of the VREP or allowance retirement in order to be eligible for a pension.
-Date: [ISO 8601 date]
+{}
+
+
+
+event: Submission of MWh generated
+type: submission
+confidence: 90
+summary: The obligation to submit the amount of megawatt-hours (MWh) generated in a particular year to the Air Resources Board (ARB) by the specified deadline of July 1 of that year. 
+date: 01-07-YYYY{}
+
+
+
+event: Notification of VREP Retirement
+type: obligation
+confidence: 75
+summary: The obligation states that the ARB (Air Resources Board) must notify the Green e® Energy Participant regarding the retirement of VREP (Voluntary Renewable Energy Program) credits. This indicates a requirement for the ARB to communicate retirement status, although the context does not clearly establish any further obligations or details.
+date: {}
+
+
+
+{}
+
+
+
+Nothing{}
+
+
+
+event: Compliance with Renewable Energy Standards
+type: obligation
+confidence: 70
+summary: The Standard mandates adherence to regulations regarding the provision of bundled and unbundled renewable electricity. Specific requirements for compliance may be detailed in additional documentation not included in the provided text.
+date: {}
+
+
+
+Nothing{}
+
+
+
+{}
+
+
+
+event: Eligibility for Green e® Energy certified sales
+type: obligation
+confidence: 70
+summary: The statement implies that entities or individuals must meet certain criteria to be eligible for Green e® Energy certified sales, although specific conditions for eligibility are not detailed in the text provided.
+date: 31-12-2023{}
 

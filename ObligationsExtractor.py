@@ -107,7 +107,7 @@ DATE_RE = re.compile("|".join(DATE_TOKENS), flags=re.I)
 
 
 class ObligationExtractor:
-    def __init__(self, txt_dir='text', contamination=0.10):
+    def __init__(self, txt_dir='text', contamination=0.05):
         self.txt_dir = Path(txt_dir)
         self.contamination = contamination
         self.vec  = TfidfVectorizer(stop_words='english', ngram_range=(1,2), min_df=2)
@@ -144,5 +144,7 @@ class ObligationExtractor:
             }) 
         for fname, obligations in file_obligations.items():
             out_path = json_dir / (fname[:-4] + '.json')
+            if out_path.exists():
+                out_path.unlink()
             with open(out_path, 'w', encoding='utf-8') as f:
                 json.dump(obligations, f, indent=2, ensure_ascii=False)

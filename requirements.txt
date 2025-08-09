@@ -2,3 +2,6 @@ PyPDF2
 scikit-learn
 pandas
 matplotlib
+fastapi 
+python-multipart
+uvicorn
